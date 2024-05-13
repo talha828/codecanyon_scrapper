@@ -1,0 +1,3791 @@
+Index,Title,Image Link,Description,Price,Sales Count,Product Link
+0,StackFood Multi Restaurant - Food Ordering Restaurant App,https://codecanyon.img.customer.envatousercontent.com/files/493647457/StackFood%20Restaurant%20app.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=7a5aac4289b2cb59d199884066f1f68c,"  StackFood restaurant app is another most important module of the StackFood multi-restaurant food delivery system. The restaurant owners can do all operations with this app besides the restaurant web panel. 
+Restaurant App
+IMPORTANT NOTE
+Please register a new restaurant from admin panel for a better experience because demo credential may use lots of people which makes your testing unstable. 
+- Admin panel
+Change Log-
+Version 7.5 01 April 2024
+- Fixed some small issues and improved the design and performance
+- Made compatible with main system version 7.5
+- Made the apps compatible with Flutter SDK 3.19.4
+Version 7.3 29 January 2024
+- Optimized and restructured the full app codes.
+- Fixed issues
+- Made the apps compatible with Flutter SDK 3.16.7
+Version 7.2.1 03 January 2024
+- Made it compatible with main system version 7.2.1
+- Fixed some issues
+- Made the flutter app compatible with flutter sdk 3.16.5
+Version 7.2 22 November 2023
+- Made it compatible with main system version 7.2
+- Order reassign option from store app if self-delivery is on
+- Introduce existing reports in restaurant app
+- Custom message display option in restaurant page
+- Cash in hand overflow details for restaurant
+- Can pay the dues digitally
+- Manage custom field options when registration
+- Fixed some issues
+- Made the flutter app compatible with flutter sdk 3.16.0
+- Fixed some issues
+- Made the flutter app compatible with flutter sdk 3.16.0
+Version 7.1 15 September 2023
+- Made it compatible with main system version 7.1
+- Delivery proof upload option
+- Minimum quantity for order manage
+- Digital payment option for restaurant subscription
+- Fixed some issues
+- Performance improved
+- Made the flutter app compatible with flutter sdk 3.13.1
+Version 7.0 24 June 2023
+- Made compatible with main system version 7.0
+- Fixed some small issues
+- Made compatible with Flutter version 3.10.5
+Version 6.3 19 May 2023
+- Made the Flutter apps compatible with Flutter null-safety
+- Price showing issue solved in RTL
+- Fixed some other small issues
+- All apps compatible with Flutter version 3.7.10
+Version 6.2 23 March 2023
+- Compatible with main system version 6.2
+- Compatible with flutter version 3.7.7 
+Version 6.1.0 09 February 2023
+- Compatible with main version 6.1.0
+- Force update managed from the admin panel
+- Order cancellation reason
+- Thermal printing option from app
+- Coupon management
+- Expense list for coupons and discounts
+- Search tag for search improvement
+- Fixed some other small issues
+- Performance improved
+- Compatible with flutter version 3.7.1 
+Version 6.0.1 31 December 2022
+- Make compatible with main system version 6.0.1
+- Fixed some issues
+Version 6.0 26 November 2022
+- Make compatible with main system version 6.0
+- Subscription or Commission base features management
+- Fixed some small issues
+- Make compatible with flutter version 3.3.8
+Version 3.7 05 September 2022
+- Live chatting with customer and delivery man
+- Fixed some other issues
+Version 3.6 05 July  2022
+- Auto-refresh for ongoing order details
+- Changed restaurant-wise Delivery Charge
+- Compatible with main system version 5.7+
+- Fixed some other issues
+Version 3.5 20 June 2022
+- Account Self-delete option in app
+- Fixed some other known issues
+Version 3.4 – 30 May 2022
+- Make compatible with main app version 5.6+
+- Compatible with flutter 3.0
+Version 3.3 – 20 April 2022
+- Make compatible with version 5.4
+- Fixed some issues
+Version 3.2 – 28 February 2022
+- Multi-language for app data
+- Daywise multiple opening and closing time for restaurant
+- Dynamic digit after decimal managed from admin
+- Background custom sound
+- Fixed some issues
+- Performance improvement
+Version 3.1 – 10 February 2022
+- Fixed some issues
+- Performance improvement
+Version 3.0 – 18 January 2022
+ - Compatible with admin version 5.1 and Flutter 2.8.1
+- Veg/Non veg on restaurant edit and food add
+- Order cancel permission managed by admin
+- Self delivery without deliveryman
+- Dynamic 12/24 time format
+- Self registration page
+- Fixed some other issues
+- Performance improvement
+Version 2.1 – 15 November 2021
+- Added pagination where needed
+- Product update issue fixed
+- Fixed some other small issues
+Version 2.0 – 17 October 2021
+- Compatible with version Admin 4.0
+- Compatible with Restaurant Order confirmation model
+- Fixed new Order sound
+- Compatible with Restaurant wise delivery man
+- Add delivery man
+- GST number in invoice with on/off option
+- Temporary closing option for restaurant.
+- Fixed some other issues
+- Performance improvement
+- Fixed iOS notification
+- Off day management for restaurant
+- Show category id for build import data
+Version 1.1 – 25 September 2021
+- Sound for new orders
+- Performance improvement
+Version 1.0 – 22 September 2021
+- Initial Release.",29," 1,306 ",https://codecanyon.net/item/stackfood-multi-restaurant-food-ordering-restaurant-app-v10/33935777
+1,Bhojon - Best Restaurant Management Software with Restaurant Website,https://codecanyon.img.customer.envatousercontent.com/files/327572400/bhojon-theme-preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=bd8cd669c49e47b6b4b030a0046aeaaa,"Description: Bhojon- best restaurant management software and a restaurant POS system. Bhojon-restaurant software is absolutely a user-friendly restaurant POS system to manage your restaurant billing.
+With the assessment of Bhojon’s intelligent features you can shift all your manually operated restaurant activity into an automated form.
+Bhojon is an all-in-one restaurant management solution because it offers various advanced features to automate your restaurant. For instance online ordering systems, personalized restaurant websites, cloud kitchens, QR-based order-taking systems (addons), and desktop / offline applications (addons).
+To Explore More About Bhojon, You Can Visit the Demo Links below:
+Website Demo : https://bhojon.bdtask-demo.com/demo-classic/
+Super admin : https://bhojon.bdtask-demo.com/demo-classic/login
+Default Demo : https://bhojon.bdtask-demo.com/demo-default
+If you Need Custom Waiter Mobile apps please check here the demo: https://play.google.com/store/apps/details?id=com.bdtask.waiters
+If you Need Custom Kitchen Mobile apps please check here the demo: https://play.google.com/store/apps/details?id=com.bdtask.kitchenchef
+If you Need Custom Customer Mobile apps please check here the demo: https://play.google.com/store/apps/details?id=com.bhojon
+Restaurant POS Software
+Order Management System
+Production Management
+Purchase Management
+Dynamic Dashboard
+Real-Time Report
+Table Reservation
+Various Payment Method
+Account Management
+Human Resource Management
+Shipping Method List
+Food Management
+Unit & Ingredients
+Restaurant Website
+Display a food/drink menu on any mobile device with a variant screen size. E.g. tablets, and smartphones.
+Mobile application should be independent of platforms (iOS/Android); check if Multi-Language can be featured.that is a separate addons module and payable
+The food/drink menu can contain pictures (and videos).
+Admin panel for restaurant administrator, where admin can perform create, read, update, and delete operations on the menu.
+Restaurant admin will be able to create a new user and able to assign roles such as waiter and admin.
+Customer can order one or more food/drink items.
+Send an ‘order acceptance’ notification to the customer after a waiter accepts the order.
+In case of N number of the waiter is listening for orders from the customer, if a waiter W1 accepts the order O1, the other waiter W2 should not have any access or control over
+The waiter can add/update/delete the orders manually in the system‐generated orders.
+Menu Option: Each food item may have an option such as spicy level/lemon/sauce and a comment box for giving additional comments. The waiter for all the manual entries can edit the customer screen later.
+Customers can cancel or edit the order before submitting the order to the queue.
+The table will show ‘Booked’ until the Bill is paid by the customer.
+Once the order is finalized by the customer and set to the queue the kitchen staff/cook/chef can see that and send an acknowledgment of the order received there.
+Other than a regular inventory the system will maintain an ingredients inventory so that when the order is processed in the kitchen, the admin will know how much of each ingredient has been consumed and it will send an alert of shortage of ingredients.
+Customer can pay via cash/card.
+Note: Addons are not included at Envato purchase.
+ Change Logs: Version 3.0 (09/07/2023)
+—————————————
+1. Fixed Translation Problem On the Employee Create Page
+2. Fixed Trial Balance PDF and Page Error.
+3. Fixed In Reservation (Add Booking) issue Status Not Showing Details.
+4. Fixed live option not showing ON Payment Setup Page
+5. Fixed The online order sound notification.
+6. Fixed edit the order and update the edited order OR QR Module
+7. Fixed enable/disable online orders Feature exists.
+8. Fixed Merge Order Payment Method Showing issue.
+9. The Fixed Due Invoice Button is Working.
+10. Fixed voucher report error.
+
+ Change Logs: Version 3.0 (02/03/2023)
+—————————————
+1. Language Update
+2.PDF Issue fixed.
+3.Bill Summary Issue Fixed.
+4. Some API issue on Android POS App
+
+ Change Logs: Version 3.0 (22/11/2022)
+—————————————
+1.HRM->Salary Generate issue>>Solved
+2.Day Report Closing Option,  full closing report (Basic sales report) POS format download and print option >>Solved
+3.Bulk upload problem download button 404 error >> Solved
+4.Kitchen assign delete button >>Solved
+5.Invoice payment type show>>Solved
+6.Permission issue pare redirect>> Solved
+7.Razorpay Currency Sign>>Solved
+8.Powered by text note on application setting page./Remove on >>Removed->Solved
+9.Add production expiry date optional field.(Expiry date is optional, if want to add you can add, but it has no major impact.) >>Solved
+10.Reservation Email sending problem >>Solved
+11.Customer edit inactive >>Solved
+12.Role Permission Re-arrange>>Solved
+13.Most of the pages Language issue fixed >> Solved
+---------------------------------------------------
+ Change Logs: Version 2.9 (21/12/2021)
+—————————————
+1. shipping method-wise payment method selection.
+2. Left-right arrow via tab change.
+3. edit option lock screen 
+4. Sub Category Up-down Problem fixed
+5. Dashboard: Top selling Item
+6. updated on the addons
+
+ Change Logs: Version 2.8 (06/09/2021)
+—————————————
+1. Food Bulk Upload system added.
+2. Language Bulk Upload system added.
+3. Language issue Fixed.
+4. All Modules installation issues problem solved.
+5. WhatsApp Ordering Issue Fixed.
+6. QR frontend Issue Fixed.
+7. Store time Add, edit and delete option added.
+8. Auto-Update issue is fixed when the update server is down.
+9. POS Category, Subcategory-wise product filtering system added.
+10. Kitchen dashboard Auto-refresh setting added.
+11. Add dropdown ingredient selection on Purchase add and Edit Page added.
+12. Add dropdown ingredient/Food selection on the Production page added
+13. Updated Both theme frontend parts.
+
+ Change Logs: Version 2.7 (08/04/2021)
+—————————————
+1. A new theme has been added
+ 2. POS responsiveness issue fixed
+ 3. New Design added in the dashboard
+ 4. Accounts module has been updated
+ 5. Merge multiple order issue fixed
+ 6. Production & inventory decimal issue fixed
+ 7. All CSS & javascript related issue also solved
+
+ Change Logs: Version 2.6 (06/03/2021)
+—————————————
+*Frontend Multi variant system added with pop up.
+*Create VAT Account for Sale product on Accounting
+*Now frontend website fully Multi-language supported.
+*New Paid Add-ons are added(WhatsApp,TaxManagement,waste management,shift management,test habit,loyalty,rozarpay,qr app).
+*WhatsApp customer Live chat and Ordering.
+*Update Reservation Setting(Manage reservation Time Open close).
+*Update checkout with specific day and time.
+*Order splitting option and merge Due bill management.
+*Multi Theme Management System.
+*Sound setting Option for incoming order notification.
+*updated POS setting for Quick and place order separately.
+*Added new design for pop-up addons.
+*Updated Bill settlement.
+
+ Change Logs: Version 2.5
+—————————————
+1.Table Mapping
+2.Cash Register.
+3.Auto Production
+4.Direct Quantity Add/Remove On Update page.
+5.Group Food.
+6.Variant Wise Price select.
+7.Order Splitting.
+8. Facebook/WhatsApp Paid Addons.
+9.Theme based User Interface.
+10.Reservation update
+11.Backup Database before Updating.
+12.Factory Reset.
+13.Cash register Report
+
+ Change Logs: Version 2.4
+—————————————
+ • Kitchen Status Tab Added In POS so that sales manager can able to check kitchen food preparing status.
+ • Addons Module updated
+ • Auto-update optimisation
+ • Minor issues fixed
+
+*ChangeLog :21/10/2020 - version 2.3
+1.Auto Update is working
+2.Kitchen, Update Kitchen Dashboard
+3.Service Charge Dynamic
+4.Add Short cart Key for POS.
+5.Merge Order Facilities.
+6.Split Payment Facilities for Bill Paying
+7.Multi kitchen Facilities
+8. Add Language Searching Option
+9.POS setting Facilities
+10.CMS Base Home page for font End. So You can change any section disable or enable.
+11.Customer Edit Option for Customer List.
+
+*ChangeLog :12/09/2020 - version 2.2
+1) Order view option updated in the POS
+2) Quantity issue fixed in the existing order.
+3) POS loading issue fixed and upgraded
+4) Invoice printing added on the same page.
+5) After accepting the order then product will go to Kitchen dashboard.
+6) Some minor bug fixed.
+
+*ChangeLog :18/03/2020 - version 2.0
+1. Accounting Loss & profit, Expense Management fixed
+2. Item purchase and production fraction number fixed
+3. Report Correction fixed
+4. Employee Management fixed
+5. Language fixed
+6. Kitchen auto-refresh fixed
+7. Menu Highlight fixed
+8. Fixing Auto Update fixed
+
+*Changelog: 29/02/2020 - 1.8 version
+
+1. Add Some New payment Gateway(Square Payment, Orange Money, Paytm Payments, Paystack Payments, Stripe Payment)
+2.Update Candidate Basic information On hrm Module
+3. Add Cooking Time When Order Place on Pos invoice
+4. Order list to print invoice changed.(now same as Pos invoice and all other invoices)
+5. Add Kitchen Dashboard. Kitchen User now sees new order and make it ready.
+6.For Walking Customer created Counter Dashboard.
+7. Login Screen for 3 different users (Admin, Kitchen, counter)
+8. Variant wise Update order problem fixed.
+9. New Report Add for Item wise on Report Module.
+==============================
+*Changelog: 10/02/2020 - 1.7 version
+* square-up Payment Gateway added
+* New POS interface design added
+* Some Accounts issues fixed",99," 1,037 ",https://codecanyon.net/item/bhojon-best-restaurant-management-software-with-restaurant-website/23525997
+2,FoodBank Multi Restaurant - Food Delivery App | Restaurant App with Admin & Restaurant Panel,https://codecanyon.img.customer.envatousercontent.com/files/496609323/fb_banner.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=0307ee9009dd152c04f80adeb20661ce,"FOODBANK – ALL IN ONE MULTI RESTAURANT FOOD ORDERING SYSTEM & DELIVERY SYSTEM WITH MANAGEMENT SYSTEM
+The FoodBank is a multi-vendor food ordering system for restaurants and food delivery services. Restaurant users can create accounts, order from their favorite restaurants, track orders and pay with a single click. The FoodBank team believes that a great user experience is a key to success and they are focused on building the best possible eCommerce solution for restaurant owners.
+
+Add mobility to your restaurant shop by taking the benefits of the FoodBank – All In One Multi Restaurant Food Ordering & Management System
+Workflow:
+SUPER ADMIN:
+Login as Super Admin
+Can manage Restaurants (Create, update, delete & check restaurant details)
+Can check the restaurant dashboard which includes order statistics, and restaurant details, and can view and manage Menu Items and their details
+Can manage Categories (Create, update & delete)
+Can manage menu items of restaurants (admin can create Menu Items for restaurants and can update, delete and check details of them)
+Can also manage menu Variations and Options
+Can manage restaurant Cuisines and Time Slots
+Can manage restaurant Tables 
+Can manage Restaurants Orders (Create, update, delete & check restaurant details)
+Can manage Finance or Accounts (Transactions, Request, Withdrawals)
+Can manage HRM (Acl, Restaurant Owner, Administrators, Customers & Delivery Boy Account)
+Can manage reports (Sales Report, Commission Report, Delivery Boy Reports, etc)
+Can manage Frontend CRM website report
+Can manage settings (Site Setting, SMS Setting, Payment Setting, Email Setting, Notification Setting, Social Login Setting, Otp Setting, Home Page Setting, Social Setting, Google Map Setting, App Setting)
+RESTAURANT OWNER:
+Can manage Restaurants (Create, update, delete & check restaurant details)
+Can check the restaurant dashboard which includes order statistics, and restaurant details, and can view and manage Menu Items and their details
+Can manage Categories (Create, update & delete)
+Can manage menu items of restaurants (admin can create Menu Items for restaurants and can update, delete and check details of them)
+Can also manage menu Variations and Options
+Can manage restaurant Cuisines and Time Slots
+Can manage restaurant Tables 
+Can manage Restaurants Orders (Create, update, delete & check restaurant details)
+Can manage Finance or Accounts (Transactions, Request, Withdrawals)
+Receive order Notifications & accept and decline 
+Can manage reports (Sales Reports)
+DELIVERY BOY:
+Can check the order list 
+Can manage Order Status
+Receive order Notifications & accept and decline
+Can manage Personal Finance or Accounts (Transactions, Request, Withdrawals) 
+CUSTOMER:
+Search Restaurant by Location
+Search Restaurant by restaurant order processing expedition (Delivery, Pickup & table Booking)
+Search restaurants by Category & Distance 
+Check the Restaurant menu and order 
+Book Reservation for a table for dining in
+Make comment under the restaurant
+Post Review and Ratings in restaurant
+Touch Less Order Using Restaurant Qr Code
+Login as Customer
+Can check & update profile 
+Can change password
+Can check the reservation List
+Can check previous order history
+Can check transaction (payment) History
+8 in 1 Application
+Super Admin Dashboard
+Restaurant Owner Dashboard
+Ordering Website
+Vendor’s Mobile App (Android/iOS)
+Customer Ordering Mobile App (Android/iOS)
+Delivery Boy App (Android/iOS)
+QR Menu Maker
+Table Booking
+PAYMENT GATEWAY
+The most commonly used payment gateway Integrated
+Stripe
+RazorPay
+PayStack
+Let’s Make It Easy! Not Only For the Customer But Also for Restaurant Owners & Delivery Boys
+95% of People Use Phones to Order Food, We got to that market. Also, we took care of 100% of the restaurant owners who can take orders from their phones & Delivery Boys who can manage orders from their phones also using this script. Minimize Your Business Operation Costs and make it simple for everyone
+WHAT MAKES THIS PROJECT BEST IN THE MARKET RIGHT NOW?
+Included 3 Free Apps
+Customer Ordering App
+Restaurant Owner’s App
+Delivery Boy’s App
+Awesome Technology
+Flutter 2.0
+Laravel 8
+Firebase
+Social Login
+Facebook
+Google
+Payment Gateways
+RazorPay
+PayStack
+Stripe
+Cross-Platform Compatibility
+Android
+iOS
+Cross-Browser Compatibility
+Chrome
+Safari
+Firefox
+Opera
+Push Notifications
+Mobile application Push Notifications
+CUSTOMER APP FEATURES:
+Login/Register
+Social Login with Facebook/Google
+Login, Register & Forget Password Feature
+Mobile Login with OTP
+Search Restaurant By Location
+Autofill Current location using google API
+Manual Save feature of the location
+Restaurant Directory 
+Show Promotional Sliders
+Shows Restaurants near customer area
+Delivery & Pickup 
+Menu Item Listing
+Advance search for menu items
+Category wise search 
+Food Cart
+Add Remove Items From Cart
+Invoice Details
+Checkout
+Multiple Payment Gateway
+COD Payment Option
+Pay Using Wallet Credit Balance
+Live Order Tracking 
+Notification & Alert
+Accounts & Profile
+Transactions
+Order History
+RESTAURANT OWNER’S MOBILE APP FEATURES:
+Login/Register
+Social Login with Facebook/Google
+Login, Register & Forget Password Feature
+Mobile Login with OTP
+New Order Notifications
+Recent Order History
+New Order List
+Accept or Cancel Order
+Update Order Status - Processing/Ready
+Check Account Details
+Profile
+DELIVERY BOY MOBILE APP FEATURES:
+Login/Register
+Social Login with Facebook/Google
+Login, Register & Forget Password Feature
+Mobile Login with OTP
+New Order Notifications
+Recent Order History
+New Order List
+Accept or Cancel Order
+Update Order Status - Received/Delivered/Completed
+Check Account Details
+Profile
+Demo Credentials
+WEBSITE
+Click Here
+WEBSITE LOGIN
+Click Here
+Admin
+username: admin@example.com
+password: 123456
+Customer
+username: customer@example.com
+password: 123456
+Delivery Boy
+username: deliveryboy@example.com
+password: 123456
+Restaurant Owner
+Username: restaurantowner@example.com
+Password: 123456
+CHANGE LOG
+Version v2.6 (30 April 2024)
+- Collection Module Bug Fixing
+- Waiter Module Bug Fixing
+- Minor bug fixing
+- 3 App latest version updated and feature update. (Flutter 3.19.6, dart 3.3.4)
+Version 2.4 (4 Jan 2024)
+- Paytm, Phonepe, and SslCommerz payment gateways included.
+- Minor bug fixing.
+- 3 App latest version updated and feature update. (Flutter 3.16.5, dart 3.2.3)
+Version 2.3 (20th Nov 2023)
+- New design.
+- PHP version update (v8.2).
+- Laravel version update (v10).
+- Livewire version update (v3).
+- Minor bug fixing.
+Version 2.2 (30th May 2023)
+- User module add
+- Timezone bug fix
+- Minor bug fix
+Version 2.1 (1 December 2022)
+- Installer feature add
+- Pickup feature add
+- Withdraw bug fix
+- Minor bug fix
+Version 2.0 (10 Nov 2022)
+Web Latest Update Features:
+- [Feature added] Coupon feature add
+- [Feature added] Delivery and pickup options add
+- [Feature added] Delivery charge per kilometer option add
+- [Feature added] Web push notification add
+- [Feature added] Update to Laravel 9 and PHP 8
+- [Feature Update] Minor bug fix
+App Latest Update Features:
+- [Feature Update] App updated to Flutter the latest version
+- [Feature Added] Coupon feature add
+- [Feature Added] Delivery and pickup options add
+- [Feature Added] Delivery charge per kilometer option add
+- [Feature Update] Minor Bug Fixing
+05 July 2022 v1.8
+- [Fixed] Bug fixing
+- [Feature Added] Multi-address system add-in web
+- [Feature Added] Multi-address system add-in app
+- [Feature Added] Complain feature add
+- [Feature Added] Delivery boy request withdraw feature added in the app
+14 May 2022 v1.7
+- [Fixed] Orders Module Minor bugs fixing
+- [Fixed] Restaurants Module Minor bugs fixing
+- [Fixed] Menu Items Module Minor bugs fixing
+- [Fixed] Settings Modules Minor bugs fixing
+08 April 2022 v1.6
+- [Feature Added] Live Order Tracking
+- [Feature Added] Improved Order Details Page
+- [Feature Added] OTP Login in mobile app
+- [Feature Added] Language Switcher In Frontend
+- [Feature Updated] Api Updated
+- [Feature Updated] App Updated
+- [Fixed] Minor Bug Fixed
+19 March 2022 v1.5
+- [Feature Added] Auto Update
+- [Feature Added] Social Login
+- [Feature Added] PayPal Payment Gateway Integrated On Web
+- [Feature Added] RazorPay Payment Gateway Integrated
+- [Feature Added] Added PayStack Payment Gateway Integrated
+- [Fixed] Minor Bug Fixed
+20 Feb 2022 v1.4
+- [Feature Added] Multi-Language
+- [Feature Added] Add-on Module
+- [Feature Added] Notification Module
+- [Fixed] Minor Bug Fixed
+29 Jan 2022 v1.3
+- [Feature Added] Vendor Bank Account Add Feature
+- [Feature Update] Add-on Manager Feature Updated
+- [Feature Update] Order feature Update
+- [Feature Update] Withdraw feature Update
+21 Jan 2022 v1.2
+- [Feature Added] Add-on Manager Feature Added 
+19 Jan 2022 v1.1
+- [Feature Added] Restaurant Import Module Added In Restaurants Menu
+9 Jan 2022 v1.0
+- Initial release v1.0",49, 240 ,https://codecanyon.net/item/foodbank-all-in-one-multi-restaurant-food-ordering-management-system/35543239
+3,StackFood Multi Restaurant - Food Delivery App with Laravel Admin and Restaurant Panel,https://codecanyon.img.customer.envatousercontent.com/files/493647469/Stackfood%20Main%20System.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=c9365cd888bab500358617387daa184c,"StackFood is a Multi restaurant food delivery system developed using Laravel and Flutter frameworks. Using StackFood, you can reinvent the way of food ordering and delivery system with its superb admin panel. With StackFood’s readymade and highly responsive mobile apps, you’ll get a seamless user experience for sure.
+Now the question is, why do you need to go with StackFood instead of other food delivery systems available in the market? Well, there is much to talk about it. We just need a few minutes of your valuable time to give this a read. 
+After that, we hope you’ll purchase StackFood AUTO-MAGICALLY to elevate your online food ordering and delivery business, as it’s a complete package within your reach!
+15+ Reasons to Buy StackFood:
+StackFood is a complete package for your online FOOD ordering and delivery business.
+2 SUPERB Web panels: Admin Panel & Restaurant panel. (Developed Using Laravel)
+3 mobile applications: User app, Restaurant app , and Deliveryman app . (Developed using Flutter) Please note you need to purchase the Restaurant and Deliveryman app separately. Buy Restaurant App & Buy Deliveryman App. 
+User Website (Developed using React and Flutter) you will get the flutter website free but if you want react website need to purchase separately. Buy React Version. 
+Landing page (Developed using Laravel blade)
+All the apps are available on PlayStore (Android) & AppStore (iOS).
+Phenomenal features to enhance the online food ordering and delivery system.
+100% responsive design to provide a great user experience.
+The admin dashboard holds everything together.
+Managing customers at ease.
+Constant development with regular updates.
+Active customer support to help.
+Clean, well-structured, and maintainable code
+Value for money system.
+Flexible prices, no surprises!
+All being mentioned, in order to control your business effectively and get the desired revenue, there will be no better option than StackFood.
+N.B: The best way to test the system is to register as a customer and create a Deliveryman credential via the admin panel. Be aware that all demo data will be reset every 1 hour.
+Well, do some downloading and browsing to test before moving forward!
+Browse Landing Page
+Browse Admin Panel
+Browse Restaurant Panel
+Download User App
+Browse Flutter Website
+Browse React Website(Add-on)
+Download Restaurant App(Add-on)
+Download Deliveryman App(Add-on)
+iOS User App Demo Video
+Documentation
+Support
+
+Have you completed it? How was the experience? Still not on board? Well, you might miss any noteworthy features that you looked for. That being said, let’s have a look at all its remarkable features which you can definitely COUNT ON!
+Remarkable Features of StackFood:
+As per the previous statement, StackFood is jam-packed with outstanding features which can help you to make your online ordering and delivery easier, and smarter than ever before.
+Accurate Zone-based Business: From the admin panel, numerous zone or areas can be set up to operate the business. Setting the business coverage area is as easy as summing 2+2 using the map drawing tool of StackFood. And food can only be ordered according to respective business area customers.
+Set Your Business Up: Using Business Settings in the admin panel, you can easily set up your business. There’s more in this section! From this section, you can integrate- social media, and payment methods, and configure- mail, SMS module, and notifications settings. Lastly, you can set your Terms and Conditions, Privacy Policy, and About Us page up!
+Admin Commission Feature: The admin can set a default commission for all restaurants from the admin panel however, if the admin want can set individual commission for a specific restaurant. Not only on restaurants but also on the delivery charges.
+Multi Restaurant Support: How many restaurants do you want to add to your business? Make the number countless! StackFood supports multi restaurant business model. As a result, you can add the number of restaurants you want. There is no limit whatsoever.
+Multilingual Support: No matter in which country you’re in and want to operate your business, StackFood got your back here. The apps support RTL and any language.
+SMS OTP Integrated: To keep your food ordering and delivery business safe and secure, the SMS OTP system has been integrated with StackFood. By having these bunch of integrated SMS gateways, you can easily verify your users in a smarter way.
+Orders & Dispatch Management: Handling orders is as easy as pie with StackFood. You’ll get a complete overview of your order status from the Orders section of the Admin panel. On the other hand, the dispatch management section will help you to monitor your all ongoing orders.
+Food Management: As an admin, you can control the whole Food section by managing categories and subcategories, attributes, addons, and more. Plus, you can add products to any restaurant. And the Restaurant panel also will get a food management feature.
+Order Scheduling: You can schedule orders within a set timeframe (each slot for 30 minutes) using Stackfood. While you’re having your breakfast, you can order your lunch and dinner with StackFood.
+Deliveryman Management: You can add deliverymen as many as you want and manage them effectively in the admin panel. Hiring a deliveryman is possible in two ways: freelance or salary-based. For deliveryman, you’ll get an app by which you can operate your delivery system quite simply. Last but not least, using the StackFood admin panel, can directly assign (manually) an available delivery man in order.
+Business Promotion: With StackFood, you can easily promote your business. The Promotions section in the admin panel will allow you to do it. Using campaigns, banners, coupons, and push notifications you can take your marketing to a whole new level.
+Customer Management: This admin panel section comprises many things related to customers. From viewing customer lists, wallets, loyalty points, and subscribed emails to customer live chat; all are under one roof! Manage your customers effectively and GROW!
+Direct Chat with Admin: Customers can directly chat with Admin for any issues or queries. Most of the online ordering and delivery systems don’t have this feature but StackFood provides this for better customer engagement.
+Employee Management: The more your business grows, the more people you need to handle all things! That’s why StackFood comes with an Employee management section for you! You can add employees, and assign them particular roles to manage your business smoothly.
+Analyze Report and Statistics: StackFood’s Report management section of the admin panel helps you to get the day-wise and food-wise reports. As a result, taking the required steps on anything that is not doing good, will be easier for you.
+100% Responsive & Feature-packed App (Android & iOS): You will get StackFood mobile app source code with this bundle. We developed this by flutter so the app can be usable on both android and iOS.
+Built-in POS System: To execute online payments, POS service is now a must. And each restaurant is likely to pay extra for this. But with StackFood, you’ll be getting this service totally FREE of cost as it’s included in the bundle. Having this service in your system, restaurant owners can manage walk-in customer’s orders easily.
+Integrated All the Popular Payment Gateways: All the payment gateways have been integrated with the system to manage the payment procedure from anywhere in the world.
+Outstanding System Settings: There are two different themes have been added for you. You can handle the app and landing page settings from the admin panel. A built-in gallery is also available and ReCaptcha is for security purposes.
+Hassle-free Transaction Management: You can easily collect cash from restaurants and delivery from the admin panel’s transaction management system. Not only just this, restaurant withdraws, and deliveryman payments are also manageable through the admin panel.
+Dark Mode
+Nowadays, Dark mode is everywhere and has become a mandatory feature in the modern world. Likewise, users of StackFood can use both dark & light modes based on their preferences, as the entire system supports both visual modes.
+Password Recovery System
+Forgetting passwords are very common for everyone. That’s why recovering the forgotten password is a must! StackFood users can easily recover their login password using the proper recovery system.
+Restaurant and Deliveryman Self-Registration
+Seeing the benefits and facilities of StackFood, anyone wishes to be a part of your platform. That’s why we have the self-registration feature so that anyone can quickly register as a Restaurant or Deliveryman from the admin landing page, web & customer app.
+User Account Delete
+Change of mind is one of the most common natures of human beings. Keeping that in our concern, we have the “user account delete” feature. If any users want, they can completely delete their account from StackFood anytime.
+Customer Cart
+If anyone has multiple foods in mind to buy, they can keep adding their desired food to the Cart and keep browsing more options. Finally, he can see a clear overview of his all orders and quickly complete the checkout process from the cart.
+Wishlist
+Wishlist is another feature that helps customers a lot. They can save their favorite food for future purchases in the wishlist section and quickly buy them anytime from the list.
+Ratings & Reviews
+Customers can give ratings and reviews to both restaurants and deliverymen. It creates a transparent shopping experience for all customers.
+User Apps & Web App
+In the smartphone era, everything you can imagine has an app for it. StackFood also has Flutter-based apps for its users. This includes the Restaurant app, Deliveryman App, and Customer App.
+
+Ordering Process with StackFood In A Nutshell: As Simple As It Could Be
+Ordering and delivering with StackFood is simpler than ever. Below is the step-by-step process of ordering and delivery in a nutshell. If anything seems confusing to you, feel free to contact our support team. They’re always ready to help!
+The first step is for the customer to place an order with the restaurant. Remember, customers cannot order from multiple restaurants at once.
+The deliveryman will be notified about the order in the Order request section of the Deliveryman app and will accept it so that the order can be delivered.
+The restaurant owner gets the order in the dashboard when the delivery boy confirms the order (if delivery confirmation is delivery man) and starts processing the order and hands it over to the delivery boy when the order is ready to deliver.
+Digitally paid orders will go directly to the confirmed status and will appear on the restaurant’s dashboard without the delivery boy’s confirmation.
+It is not necessary to get the delivery men’s confirmation if the store’s confirmation model is enabled, but after the restaurant’s confirmation, the delivery men will receive the order for acceptance.
+Upon accepting the order (if COD), the Delivery Guy confirms it, picks it up, and delivers it to the customer.
+For orders picked up at the restaurant, all steps will be managed by the restaurant.
+When a scheduled order is placed, all operations will begin 15 minutes before the expected delivery time.
+All being mentioned, what do you think, is StackFood worth the money that you spend? Well, we would like to say, if it was not a “Value for Money’’ then within this short period of time we couldn’t make this number of sales.
+
+Don’t Just Go for Words, Go for Credibility
+Instead of going with our words, see our client’s valuable feedback ( Codecanyon ) on StackFood! They’re the people behind our inspiration to do good work. 
+We hope you’re clear about what you’ll be getting with StackFood
+  Change Log-
+Version 7.5 01 April 2024
+- Improved overall UI interactions and design for the whole admin, store panel, apps, and web
+- Enabled POS customer registration notification via email to the customer
+- Introduced account block/unblock notifications through email
+- Managed Halal tag for product
+- Modified some business logic in both web panels and app
+- Improved lots of database queries
+- Fixed lots of improvements related issues in both web panels and app
+- Made the apps compatible with Flutter SDK 3.19.4
+Version 7.4 07 March 2024
+- Changed some API for React overall improvements
+- Fixed reset Password sent by Mail and SMS.
+- Alpha net SMS gateway added
+- Fixed some issues in the admin and restaurant panel
+- Fixed some issues in the user app and web
+- No changes in delivery men and restaurant app
+Version 7.3 29 January 2024
+- Optimized and restructured all blade pages code in the backend and web panels.
+- Optimized and restructured the full app codes.
+- Fixed issues
+- Made the apps compatible with Flutter SDK 3.16.7
+Version 7.2.1 05 January 2024
+- Made the backend compatible with react user website new design
+- Fixed issues in both backend and apps
+- Made the apps compatible with flutter SDK 3.16.5
+Version 7.2 22 November 2023
+- Manual/ Offline payment option manage by admin dynamically
+- Free delivery setup option for given distance(km)
+- Order reassign to new delivery men from the admin panel with all available delivery men list and map view. 
+- Online cart management to sync data in every connected modules
+- Guest checkout: Customer can book a service without login/ registration
+- Auto earning calculation in daily, weekly and monthly basic based on admin's settings and generate automatic payout list for both Restaurant and Delivery Man
+- Digital payment option in due payments for both Restauant and Delivery men. 
+- Custom field option for Restaurant and Delivery men registration and show proper data in the admin panel approval page. 
+- Disable option for current order so that someone can use schedule order option only. 
+- Maximum schedule order day setup from the admin panel. 
+- Fixed some issues
+- Made the flutter app compatible with flutter sdk 3.16.0
+Version 7.1 15 September 2023
+- New design for user app and flutter user web app
+- Fixed translation related issues in full system and make it easier for translation
+- Improvements for import and export with proper organised design for exported data
+- Add fund to customer wallet using payment gateways with bonus for add fund to wallet
+- Partial payment by wallet balance
+- Update payment gateways and make the system compatible with upcoming payment module of 6amTech
+- Landing page on/off feature with custom landing page upload/configure option
+- Maximum quantity check for an item when add to cart
+- Service charge/ Packaging charge/ Platform fee adding option with dynamic texts and amount
+- Delivery proof managed by delivery man
+- Direct store link share option and managed required data for direct link share
+- Manual query based notification for admin and restaurant panel along with the firebase notification
+- Improvement in SEO for restaurant
+- Digital payment option for restaurant subscription
+- Improvements on lots of features and restructure the code
+- Fixed some issues
+- Performance improved
+- Made the flutter app compatible with flutter sdk 3.13.1
+Version 7.0 11 July 2023
+- Dynamic email template with lots of email options
+- Dynamic Firebase notification messages managed from the admin panel
+- Dynamic login URL for admin, admin employee, store, and store employee
+- Manage all landing pages with dynamic data<br />- Reorganised the whole admin and restaurant panel for better experience
+- Manage multi-language for all types of data with the default language data option
+- Design improvements for the user app
+- Forget password for admin panel with two level security by mail and mobile number. 
+- Forget password for restaurant panel by email
+- Proper instruction with video and text for all kinds of settings
+- Cutlery added or not option for food module on checkout and order details
+- Item unavailable note in the checkout page and all types of orders
+- Order delivery instructions in the checkout page and show in order details
+- Label in address for the customer
+- Cookies accept popup for all modules
+- Fixed some other small issues in the admin panel, web, and apps
+- Lots of performance-related improvements
+- Made the flutter app compatible with flutter sdk 3.10.5
+Version 6.3 24 May 2023
+- Made the backend and web panel compatible with PHP version 8.x 
+- Made the flutter apps compatible with flutter null-safety
+- Made the admin panel compatible with new react design
+- Price showing issue solved in RTL
+- Fixed some other small issues in the admin panel, web, and apps
+- All apps compatible with flutter version 3.7.10
+Version 6.2 29 March 2023
+- Reorder from the order history and managed item and restaurant availability when reordering
+- Improve refer and earnings, customer will get refer earnings after the first order is successfully delivered
+- Bulk import and export improvement
+- Based on recently viewed or recently ordered restaurants show your restaurant section in the app. 
+- Dynamic withdraw request method created by admin
+- Subscription order from customer web and app, Customers can place orders subscription-based for example daily, weekly, monthly, custom date range, and slot.
+- Delivery men online time log
+- Delivery men Incentive/Bonus based on earnings managed by admin
+- Shift for delivery men 
+- Managed OTP hit count and block for some minutes
+- Delivery fee Increase option for dynamic reasons like rainy weather
+- Landing page RTL and multi-language
+- Admin panel and store panel multi-language supported and translation option from admin panel
+- Apple login for iOS user app
+- Digital payment order status manage
+- Search location in the map when adding restaurants in the admin panel and other places
+- Print option managed for any language
+- Fixed some issues
+- Make compatible the apps with flutter's latest version 3.7.7
+Version 6.1.0 09 February 2023
+- Compatible with the StackFood React user website
+- Delivery man vehicle types with minimum and maximum delivery coverage with extra delivery charges. 
+- Admin and Restaurant panel compatible with RTL
+- Zone-wise Maximum delivery charge with the optional option
+- Search improvement by search tag in the product
+- Customer-wise coupon
+- New reporting with lots of improvements to existing reports
+- Restaurant-wise coupon
+- Coupon discounted amount managed by coupon creator and shown in expense list
+- Proper management with expense reports for product discount
+- Maximum order amount for COD orders
+- Order cancellation reason for admin, restaurant, delivery man, and customer
+- Cuisine-wise restaurant
+- Recommended items on the restaurant page
+- Tax include and exclude options managed by admin
+- Managed notifications for admin and restaurant by firebase
+- bKash payment gateway updated
+- Required admin approval for joining the basic campaign
+- Managed force updates for delivery man and restaurant app
+- Fixed some other small issues
+- Performance improved
+- Compatible with flutter version 3.7.1 
+Version 6.0.1 31 December 2022
+- Subscription transaction and other related issues solved.
+- Order edit issue solved.
+- Order Refund Improved.
+- Some notification issues fixed.
+- Social Login issue solved.
+- Fixed some page export issues.
+- Best reviewed food price-related issue fixed in user app.
+- Some order request-related issues solved.
+- Fixed some other small issues
+- Make compatible for react web version
+Version 6.0 26 November 2022
+- Changed the food variation system in both logic and UI
+- Introduce subscription based restaurant model with a dynamic package and free trial option
+- Social login system for user app
+- Refund model Improvement
+- Complete new designed landing page
+- Proper route naming and management
+- Expense calculation for free delivery in the admin panel
+- Refund, cancellation, and shipping policy page
+- Distance-wise restaurant sorting in the app home page
+- Fixed some small issues
+- Make compatible with flutter version 3.3.8
+Important Note: If you update your admin panel you need to update your existing food variation as we changed the food variation system. 
+Version 5.8.1 19 September 2022
+- Fixed some design-related issues in the admin panel
+- Fixed some chatting issues in the admin panel
+- Fixed admin role issues in the admin panel
+- Update payment gateways to the latest version
+Note: No changes in apps
+Version 5.8 05 September 2022
+- Complete redesigned and reorganized admin and restaurant panel
+- Live chatting with Customer to admin, Customer to restaurant, customer to delivery man, delivery man to restaurant
+- Show restaurants on the map with detailed view
+- Complete rearranged POS for both admin and restaurant
+- Fixed small issues
+- Query optimized
+Version 5.7.1 04 August 2022
+- Fixed some issues
+- Performance improvement
+Version 5.7 05 July 2022
+- Auto-refresh for ongoing order details in the user app
+- Zone-wise delivery charge management
+- Admin’s commission in the delivery charge
+- Cash in hand overflow for the delivery man - The delivery man can't able to accept orders if the amount is over.
+- Changed restaurant-wise Delivery Charge
+- Tracking of delivery man ( Time log, availability & Assigned Orders)
+- Fixed problem for user delete with refer & earn
+- Improved some design in the user app
+- Fixed some other issues
+- Performance improvement
+Version 5.6.2 20 June 2022
+- User account self-delete option in app
+- Fixed some other known issues
+Version 5.6.1 31 May 2022
+- POS for admin panel
+- Order processing time managed from admin and restaurant
+- Test Data delete option
+- Provide all zones data based on delivery location (If there are multiple zones overlapped in a location)
+- Refer and Earn system
+- Delivery man tip option managed from admin
+- Update Address details ( additional fields like road, house, floor )
+- Food search option in the restaurant
+- Food without image
+- Image zoom option
+- Multiple themes for the user app homepage
+- Fixed some other small issues. 
+- Performance improved
+- Compatible with flutter 3.0
+Version 5.5 12 May 2022
+ - Fixed iOS browser login issue
+- Fixed Payment gateway redirection issue
+- Update payment gateway SDKs
+- Fixed Category page restaurant to food switch issue
+- Fixed some other known issues.
+- Added SMTP setup test by sending a test mail
+Version 5.4 –25 April 2022
+- Wallet payment option for customers
+- Add fund option in wallet by the admin
+- Loyalty point based on order value
+- Convert loyalty points into wallet balance
+- Refunded amount in wallet balance
+- Improved landing page design 
+- Mail for customer registration, order place, add fund by admin, self registration for restaurant and delivery man
+- Social media URL
+- Mail subscription option for collecting mail address
+- Fixed landing page data update issue in the admin panel
+- Fixed digitally paid order mail in the admin panel
+- Fixed some other small known issues. 
+Note: If you face any login related problem in user app after the update, please delete the vendor folder from your server and then again update the admin panel. The update process will create the vendor folder again. 
+Version 5.3 –03 March 2022
+- Fixed opening and closing time issue
+- Multi-language for app data
+- Daywise multiple opening and closing times for restaurant
+- Dynamic schedule order slot duration managed from admin
+- Dynamic digit after decimal managed from admin
+- Background custom sound
+- New payment gateway Liqpay, PayTabs, Paytm, bKash.
+- Fixed some other issues
+- Performance improvement
+Important note- As changed the restaurant opening closing times structure after system update need to update all restaurants opening closing times.
+Version 5.2 –10 February 2022
+- Fixed lots of minor issues
+- Changed some database structure and Queries for better performance (by load testing and seeding huge data). 
+Important note: There is a possibility to reset some reporting after the update.  
+Version 5.1 (Hot fix) –18 January 2022
+Fixed some issues for version 5.0
+- Compatible with Flutter 2.8.1
+- Fixed product and restaurant import issue
+- Fixed restaurant bank info updated issue
+- Order refund notification added
+- Addon price issue fixed for restaurant panel
+- Recaptcha loading issue fixed
+- Deliveryman approval issue fixed
+- Restaurant schedule order issue fixed
+- Restaurant veg/non-veg issue fixed
+- Fixed some other small issues 
+Version 5.0 –11 January 2022
+- Veg/Non Veg with Turn on/off and filter option in Admin, vendor panel and User app. 
+- Zone wise employee management
+- Dynamic order cancel permission for restaurant and delivery man
+- Google captcha on all web panel login with default captcha
+- Restaurant self-delivery without deliveryman
+- Dynamic 12/24 time format
+- Offer price on home page for user app
+- Coupon page in user app
+- Restaurant and delivery man self-registration page turn on/off managed by admin
+- Category wise restaurant in user app
+- Address edit and change option on the checkout page
+- Earning for per order in deliveryman app managed by admin
+- iOS notification issue fixed
+- Android 6 app loading issue fixed
+- Fixed some other issues
+- Performance improvement
+Version 4.2 –06 December 2021
+Hot release for some issues
+- Fixed restaurant discount issue
+- Fixed coupon issue in order
+- Hide/Show customer review from admin panel
+- Deliveryman current orders count in canceled order issue solved
+- Added no internet screen in user app
+- Address multiple delete issue fixed
+- Restaurant closed issue fixed
+- Performance optimize
+Version 4.1 –21 November 2021
+- POS system for restaurant panel with option for access turn on/off by admin. 
+- Landing page data management from admin panel
+- Category Filter in product list
+- Map search improvement in admin business setup
+- Pagination for apps where needed
+- Fixed admin profile update issue
+- Fixed the Google Maps issue in the admin panel, created by google Maps API's latest version release.
+- Improved home page and restaurant details page loading time in user app.
+- Delivery time, minimum order view in user app's restaurant details page
+- Most reviewed food section in user app's home page managed by admin
+- Fixed some other issues
+- Performance improvement
+Version 4.0 – 20 October 2021
+- Order update from admin panel.
+- Restaurant Order confirmation model
+- Fixed Order sound in restaurant and delivery man app
+- Restaurant wise delivery man
+- GST number in invoice with on/off option
+- Popular and new restaurants on the home page with turn on/off option
+- Category sorting. (High, Medium, Normal) - Default (Normal)
+- Offday management for restaurant
+- Temporary closing option for the restaurant.
+- Fixed iOS notification
+- Privacy policy and terms & condition page added in all app
+- Some design improvements in app and web
+- Show review and rating list for the restaurant in user app
+- Fixed some other issues
+- Performance improvement
+- New payment gateway
+Version 3.1 – 25 September 2021
+- Maximum assigned order for delivery man managed by admin
+- Fixed issues for flutter 2.5
+- Performance improvement
+Version 3.0 – 21 September 2021
+- Make the backend compatible with restaurant app
+- Flutterwave new payment gateway
+- Free delivery over amount setup from admin
+- Apps force update setup in admin
+- Same food with different addon add option
+- Updated to flutter 2.5
+- Fix some issues
+- Performance improvement
+Version 2.1 – 10 September 2021
+- Hot fix for bulk upload issue
+- Fix restaurant employee login issue
+- Fix stripe currency problem
+- Fix the google map API version issue
+- Show existing zones in map when creating a new zone
+Version 2.0 – 03 September 2021
+- Web app
+- Bulk import and export
+- Image gallery
+- Maintenance mode added
+- Refund option for a digitally paid order
+- Fix some issues
+- Performace improvement
+Version 1.0 – 24 August 2021
+- Initial Release.",69," 2,157 ",https://codecanyon.net/item/stackfood-multi-restaurant-food-delivery-app-with-laravel-admin-and-restaurant-panel-v10/33571750
+4,FoodAppi - PWA Food Delivery System and WhatsApp Menu Ordering with Admin Panel | Restaurant POS,https://codecanyon.img.customer.envatousercontent.com/files/497135046/foodappi%20banner.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=8d2c22f9f458e2528bb118ebc3b0cbec,"Introducing “FoodAppi” revolutionizes food delivery with its progressive web application (PWA) interface, enabling admin to receive orders via WhatsApp. Its robust admin panel streamlines restaurant management and enhances efficiency. Integrated POS offers a comprehensive solution for food and restaurant businesses, promising convenience and effectiveness.
+Demo Credentials
+WEB & APP LOGIN CREDENTIALS
+Admin
+email: admin@example.com
+password: 123456
+Pos Operator
+email: posoperator@example.com
+password: 123456
+
+CHANGE LOG
+Version 1.0 (05 May 2024)
+- Initial Release",59, 26 ,https://codecanyon.net/item/foodappi-pwa-food-delivery-system-and-whatsapp-menu-ordering-with-admin-panel-restaurant-pos/51692522
+5,Restaurant POS - Restaurant management system with kitchen display,https://codecanyon.img.customer.envatousercontent.com/files/459073213/2%20(1).png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=075e919df7f7178798920b2bba519fbf,"The Restaurant POS system with kitchen display is a comprehensive restaurant management solution designed to optimize operations and enhance efficiency. Here’s a comprehensive summary of its key features:
+Food Items and Modifiers: The system offers a well-organized menu management feature, enabling easy navigation and ordering of a wide range of food items. It supports modifiers based on ingredients, allowing for customizable options to accommodate individual preferences and dietary requirements.
+Kitchen Display System: With its integrated kitchen display functionality, the system ensures seamless communication between the front-of-house and back-of-house operations. Orders placed through the POS system are instantly transmitted to the kitchen display, eliminating the need for paper tickets and enhancing order accuracy and processing efficiency.
+Expense Management: The POS system includes an expense management module that allows restaurant owners and managers to track and categorize various types of expenses. It enables the recording and organization of expenses based on different expense types, facilitating accurate financial record-keeping and providing valuable insights for budgeting and cost control.
+Import/Export Capabilities: The system supports import and export functionalities in multiple formats such as CSV, XLSX, XLS, and HTML. This allows for seamless integration with external systems and facilitates data analysis, sharing, and compatibility with different software applications.
+Order Types: The POS system efficiently manages different order types, including dining, pickup, and delivery. It enables waitstaff to process orders, assign tables for dining orders, track pickup orders, and manage delivery orders, ensuring smooth operations and timely service.
+Service Tables: The system incorporates a table management feature, allowing for efficient handling of service tables within the restaurant. It enables waitstaff to assign tables, track table availability, and manage seating arrangements, optimizing order processing and facilitating accurate communication with the kitchen staff.
+Report Generation: sale reports, tax reports, expense reports, overall reports
+Advanced Filtering: filter reports based on specific criteria (e.g., date range, product category, payment type)
+Database Backup: automatic backup of the POS system’s database, and ability to restore the database from a backup Data Backup.
+In summary, the Restaurant POS system with kitchen display is a comprehensive solution that combines features like food item and modifier management, kitchen display integration, expense management, import/export capabilities, and order type and service table management. By leveraging these features, restaurant owners and managers can streamline operations, enhance customer service, and achieve greater efficiency in their establishments.
+For demo:
+URL: https://resto.codehas.net/
+username: admin@admin.com
+password: 12345678
+Full Document URL: https://codehas.gitbook.io/restaurant-pos/
+For Help: https://codecanyon.net/user/rose-finch or email: info.codehas@gmail.com
+Please read it before purchasing",70, 56 ,https://codecanyon.net/item/restaurant-pos-restaurant-management-system-with-kitchen-display/45798310
+6,FoodScan - Qr Code Restaurant Menu Maker and Contactless Table Ordering System with Restaurant POS,https://codecanyon.img.customer.envatousercontent.com/files/497260534/foodscan_banner.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=b4a2077ab2c43059938ef99f87c106a4,"Introducing FoodScan – a Contactless table ordering system and QR Menu Maker. Customers simply scan a QR code, browse the menu, place orders, and enjoy. A safe and seamless dining experience.
+Demo Credentials
+WEB & APP LOGIN CREDENTIALS
+Admin
+email: admin@example.com
+password: 123456
+Branch Manager
+email: branchmanager@example.com
+password: 123456
+
+Pos Operator
+email: posoperator@example.com
+password: 123456
+
+USER JOURNEY
+Qr Code Restaurant Menu Maker and Contactless Table Ordering System with Restaurant POS Efficient and Easy Digital Menu Ordering and Contactless Payment System for In-House Dining.
+QR CODE MENU MAKER
+This feature allows restaurants to create digital menus in the form of QR codes. Restaurants can input menu items, descriptions, prices, and possibly images into a system. The system generates a QR code for each table or the entire restaurant. Contactless Table Ordering System Customers can use their smartphones to scan the QR code on their table, which directs them to the digital menu. The digital menu allows customers to browse through items, select their choices, and place orders directly from their devices. Orders are sent to the kitchen or bar, reducing the need for physical menus, paper order slips, and direct interaction with waitstaff.
+RESTAURANT POS INTEGRATION
+Integration with the restaurant’s POS system ensures that orders placed through the contactless system are seamlessly processed. The POS system may also handle payment processing, allowing customers to pay through the app or other contactless methods.
+FRONTEND FEATURES
+Home Page
+Language switch
+Search item
+Menu-wise item search (Category)
+Veg/Non-veg wise item search
+Newsletter subscription
+Footer section
+Menu page
+Menu-wise item search (gird and list view)
+Variation page
+Show variation (single and multi-variation)
+Add to cart
+Cart page
+Set all product lists with variation and addon also
+Checkout page
+PayPal
+Stripe
+RazorPay
+FlutterWave
+PayStack
+Bkash
+Sslcommerz
+PayTm
+MercadoPago
+SenangPay
+Cashfree Payments
+Mollie
+Telr
+Phonepe
+Skrill
+payfast
+BACKEND FEATURES
+Dashboard
+Items
+Item info
+Item variations
+Item extras
+Item addons
+POS
+Table orders
+Offer/Promos
+Users
+Admins
+Profile
+Customer
+Profile
+Security (change password)
+Location
+Orders
+Employee
+Profile
+Security (change password)
+Accounts
+Transactions
+Reports
+Sales
+Item (which item is a high-selling item)
+Credit Balance (user wallet balance)
+Settings
+Company
+Site
+Branches
+Mail
+OTP
+Notification
+Notification Alert
+Analytics
+Theme
+Currencies
+Item Categories
+Item Attributes
+Taxes
+Pages
+Role & Permissions
+Languages
+Sms Gateway
+Payment Gateway
+License
+CHANGE LOG
+Version 1.3 (6 May, 2024)
+- Added category draggable feature
+- Bkash payment gateway minor bug fixed
+- Razorpay payment gateway minor bug fixed
+- Sales report minor bug fixed
+- Made seo friendly URL
+- The language minor bug fixed
+Version 1.2 (8 Feb, 2024)
+- Site setting minor bug fixed
+- Company setting minor bug fixed
+- MSG91 minor bug fixed
+- Telr minor bug fixed
+- The dining table features a minor bug fixed
+- Stripe minor bug fixed
+- POS simple bug fixed
+Version 1.1 (04 Jan 2024)
+- Notification issue fix
+- Quantity issue fix
+- Country code issue fix
+- Other issue fix
+Version 1.0 (31 Dec 2023)
+- Initial Release",39, 200 ,https://codecanyon.net/item/foodscan-qr-code-restaurant-menu-maker-and-contactless-table-ordering-system-with-restaurant-pos/50038622
+7,Menorah Restaurant - Restaurant Food Ordering System,https://codecanyon.img.customer.envatousercontent.com/files/261231311/MEnorah-Restaurant-preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=6e1ea0bbf6fd4bc0ca1a0cf43413d92c,"Menorah Restaurant is a full-fledged food ordering system for restaurants. Menorah Restaurant comes with a responsive design and user-friendly interface, which is compatible with desktops, laptops, mobile phones, and tablets.
+Menorah Restaurant is easy to set up and install. Menorah Restaurant comes with a lot of features like custom CMS, Order management, menu management, customer management, SMS Alerts, SEO optimization, Referral System etc..Using the admin panel, you can manage an order, create menu categories and items, and also set such parameters, as a currency, restaurant opening time, site language, site logo etc. From the admin panel, you can add, update data.
+
+DEMO Credentials
+https://restaurantfoodorderingscript.digisamaritan.com/
+Admin Login: admin@admin.com / password
+Kitchen Manager : kitchenmanager@gmail.com / password
+Delivery Manager : deliverymanager@gmail.com / password
+Customer : michale@gmail.com / 123456
+AWESOME FEATURES OF Menorah Restaurant
+100% Responsive Design
+Powerful Admin Panel
+Easy Installation
+Referral System
+Dashboard Statistics
+Pusher Notifications
+SMS Alerts
+Email Alerts
+Social Logins (Facebook, Google plus)
+Single Page Checkout
+Multilingual
+FAQs
+Well documented code
+Admin Users Management
+SEO Optimized
+Kitchen Manager
+Delivery Manager
+Reports (Sales summary report by date wise,customer wise,item wise,location wise)
+Sales summary report in chart form of every month
+Orders showing in JQuery Calendar
+Payment online/card or cash on delivery
+General Features of Admin
+Create Unlimited Menu Categories
+Create Unlimited Items
+Create Unlimited Add-ons
+Create Unlimited Options
+User Management
+Customers Management
+Order Management (New,Under Process, Out to Deliver, Delivered/Cancelled)
+Language Management
+Loyalty Points
+Referral Settings
+Location Management
+Manage Settings (Site Settings, Email Settings, Paypal Settings, SMS Settings,SEO Settings,Social Network Settings,Pusher Notification Settings,Tinify Settings etc)
+Reports
+FAQs
+Custom Pages
+Orders view in jQuery Calender
+Order Summary in the form of Graphical format.
+General Features of Kitchen Manager
+View Processed Orders
+Send Orders to Out to Deliver
+Assign Delivery Manager
+Profile Management
+General Features of Delivery Manager
+View Out to Deliver Orders
+Send Orders for Delivery
+Profile Management
+General Features of Users
+Register either Social/Web(Referral)
+View Menus & Items
+Book an Order (can use Loyalty Points)
+Single page checkout
+Add delivery locations
+Pay online/offline
+My Profile
+My Addresses
+My Orders
+My Points
+Requirements
+PHP Version 5.3 or higher
+MySQL client version: 5.1.41 or higher
+PDO Installed
+CURL Open
+Session enabled
+Mail functions enabled
+Mod_Rewrite Module Enabled
+Support
+Skype : digishelp
+Email : digisamaritan@gmail.com
+WhatsApp: +91 93921 79164
+Support Portal Link : https://support.digisamaritan.com/
+We are dedicated to continue to improve this system, your suggestions are always welcome.",59, 157 ,https://codecanyon.net/item/menorah-restaurant-restaurant-food-ordering-system/23180351
+8,Karenderia Single Restaurant Website Food Ordering and Restaurant Panel,https://codecanyon.img.customer.envatousercontent.com/files/486215117/Karenderia%20Single%20banner.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=aa2411c7fda79afbbd0283a2f960f566,"Merchant Panel    Website   
+Notice : To test ordering please use Los angeles as address
+– Version: 1.0.5
+– Last update: March 23, 2024
+Important notice 1.0.4 version requires Karenderia Multiple Restaurant version 1.1.4 update
+Notice to buyer : this is addon for Karenderia Multiple Restaurant System, you need to purchase KMRS for this website app to work.
+Join our community at https://community.bastisapp.com/
+– Video tutorials
+Single Restaurant Addon Installation
+https://youtu.be/aE6EnxRR9pw
+Single Restaurant Build Guide
+https://youtu.be/Gagh34gltII
+Single Restaurant Build Live
+https://youtu.be/2RqXZGxstHI
+Localization
+https://youtu.be/jzmwDIPuMBg
+Version 1.0.5 – 23 March 2024
+fixed pay on delivery 
+fixed - check cart belongs to merchant
+fixed - checkout map coordinates
+fixed - chat
+update - login and signup page
+new - guest checkout
+
+Version 1.0.4 – 31 January 2024
+fixed - checking of close store 
+fixed - issue with transactions type always delivery
+fixed - if date/time is already passed 
+fixe - make home banner clickable 
+fixed - PDF to support arabic
+update - addon min and maximum selection 
+update - commission/merchant earnings computations
+New – add pay by card type,  
+new – add allergens to food item, 
+new – deposit link when viewing order details
+new - upload bank deposit 
+new – add item gallery
+new – table booking user must login
+new – manage table booking under customer profile
+new - select table booking during checkout 
+new - Multi currency 
+new - Loyalty points
+new - promo code add transation type
+new - promo code add visible 
+new - added new payment pay on delivery or pay by card type
+new - add allergens to food item
+new - deposit link when viewing order details
+new - add item gallery
+new - table booking user must login
+new - manage table booking under customer profile
+new - make banner scroll
+new - logout if account is in inactive or password has changed 
+new - add default avatar for user,food and merchant 
+new - Customer digital wallet 
+new - top-up digital wallet 
+new - payment using digital wallets 
+new - real time live chat - set firebase config in src/boot/FirebaseChat.js  tutorial  https://youtu.be/Y1T2hzt__vc?si=iCcGJWvS0g7kZi7H
+new - add campaign for merchant to join loyalty points
+new - options to disabled include utensil
+new - points thresholds 
+fixed - some minor issue
+
+Version 1.0.3 – 22 June 2023
+update - compatible with kmrs version 1.0.8
+fixed - RTL to use language rtl options
+remove - RTL button on header menu
+update - addon min and maximum selection
+update - commission/merchant earnings computations
+update - session to local storage for user login
+
+Version 1.0.2 – 15 April 2023
+new - upload profile photo
+new - RTL
+new - add options to make addon as checkbox instead of image
+fixed - forgot password
+fixed - remove address when merchant has no delivery services
+fixed - remove address in checkout page if transaction type is not delivery
+fixed - language bar on top when mobile view
+fixed - multi options addons limit
+
+Version 1.0.1 – 17 January 2023
+fixed - issue in product page not showing addons and ingredients
+fixed - issue on facebook login
+fixed - issue on tax missing
+fixed - add to favorites if not login
+fixed - paypal payment decimal
+fixed - tips showing even disabled in merchant panel
+fixed - if has no banner uploaded
+fixed - make banner clicikable
+fixed - tracking link for single app
+fixed - reviews not showing anonymous
+fixed - check if merchant is open
+fixed - service list by merchant
+fixed - out of range when changing transaction type
+fixed - multiple transaction list 
+fixed - forgot password
+fixed - download PDF
+fixed - add language code for captcha
+fixed - custom page
+new - item to be open as popup
+new  - require cooking reference
+new - pre selected ingredients
+new - item not for sale
+new - mapbox
+new - cash change
+new - cash maximum amount
+new - table reservations
+new - about us page
+new - tips percentage or fixed
+new - localization or translation
+
+Version 1.0.0 – 16 May 2022
+- Initial Release.",39, 298 ,https://codecanyon.net/item/karenderia-single-restaurant-website-food-ordering-and-restaurant-panel/37839421
+9,Karenderia Single Restaurant App Food Ordering with Restaurant Panel,https://codecanyon.img.customer.envatousercontent.com/files/487347881/Karenderia%20Single%20Restaurant%20App%20Food%20Ordering%20Banner.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=5fa465d22f7d79d6eb5a98571f8d64b4,"Admin Panel    Merchant Panel    Android demo   
+Notice : To test ordering please use Los angeles as address
+– Version: 1.0.3
+– update requires latest version of kmrs 1.1.5
+Important : mobile app requires karenderia version 1.1.5
+Notice to buyer : this is addon for Karenderia Multiple Restaurant System, you need to purchase KMRS for this Android,iOS and PWA app to work.
+Join our community at https://community.bastisapp.com/
+– Video tutorials
+Build your app
+https://youtu.be/9-_CkcVEVdU
+Configure firebase project
+https://youtu.be/IvQGqTJFH4M
+Create keystore
+https://youtu.be/_5SoV6dsMDo
+Configure google login
+https://youtu.be/rAzaZz70z3U
+Configure facebook login
+https://youtu.be/65j7D0Oc2sA
+Change android package ID and package name
+https://youtu.be/2owVmp2EX_w
+Version 1.0.3 – 11 February 2024
+fixed - pay on delivery 
+fixed - double check cart belongs to merchant
+fixed - social login
+fixed - complete registration form
+fixed - address details mixed up street number to street name
+fixed - chat ordering - add new fields serverTimestamp
+
+Version 1.0.2 – 09 February 2024
+fixed - checking of close store 
+fixed - issue with transactions type always delivery
+fixed - if date/time is already passed 
+fixe - make home banner clickable 
+fixed - PDF to support arabic
+update - addon min and maximum selection 
+update - commission/merchant earnings computations
+update - firebase push notifications
+New – add pay by card type,  
+new – add allergens to food item, 
+new – deposit link when viewing order details
+new - upload bank deposit 
+new – add item gallery
+new – table booking user must login
+new – manage table booking under customer profile
+new - select table booking during checkout 
+new - Multi currency 
+new - Loyalty points
+new - promo code add transation type
+new - promo code add visible 
+new - added new payment pay on delivery or pay by card type
+new - add allergens to food item
+new - deposit link when viewing order details
+new - manage table booking under customer profile
+new - make banner scroll
+new - logout if account is in inactive or password has changed 
+new - add default avatar for user,food and merchant 
+new - Customer digital wallet 
+new - top-up digital wallet 
+new - payment using digital wallets 
+new - real time live chat - set firebase config in src/boot/FirebaseChat.js  tutorial  https://youtu.be/Y1T2hzt__vc?si=iCcGJWvS0g7kZi7H
+new - add campaign for merchant to join loyalty points
+new - options to disabled include utensil
+new - points thresholds 
+fixed - some minor issue
+
+Version 1.0.1 – 22 June 2023
+- update compatible with kmrs version 1.0.8
+- fixed merchant time list
+- fixed rejected order missing in order list
+- fixed ios firebase registration
+- fixed price discount not showing
+update - addon min and maximum selection
+update - commission/merchant earnings computations
+
+Version 1.0 – 04 May 2023
+- Initial Release.",39, 109 ,https://codecanyon.net/item/karenderia-single-restaurant-app-food-ordering-with-restaurant-panel/45366343
+10,Dalvroodoo - Online Food Ordering App for your Restaurant,https://codecanyon.img.customer.envatousercontent.com/files/497188035/Thumbnail.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=14a15fe737f6e159427f59f25f01fc4b,"Dalvroodoo is an Online Food Ordering app for your restaurant. Your customers can order food online from the app and the order will be sent to your restaurant in real time. You can manage your restaurant menu, prices, orders, and much more from the included admin panel.
+App Features
+Built with KMM (Kotlin Multiplatform) for the perfect performance for Mobile, with support for IOS coming soon
+Email Authentication
+Google Login
+Phone Authentication
+View Most Ordered Food
+View Your Last Order
+Order History
+View Food Items
+Search Food Items
+View Food Categories
+Add Food Items To Cart
+View Food Item
+Food Item Selection Lists eg. Extra Cheese, Stuffed Crust,etc..
+Add Address
+Cash On Delivery Payment Method
+Place Order
+Tax Support
+Delivery Fees Support
+Admin Panel Features
+Built using React
+Admin & Manager Roles
+Manage Branches
+Manage Managers through Admin
+Manage Food Items
+Manage Food Items Selection Lists with Optional and Required types
+Manage Food Categories
+Manage Orders
+Realtime Order updates using Socket
+Manage Users
+Manage Delivery Fees
+Manage Tax
+Manage App Settings
+Demo Account
+Admin
+https://dalvroodoo.com/admin
+Username: demo-admin
+Password: demo-admin
+
+Manager
+Username: demo-manager
+Password: demo-manager
+Android App
+https://bit.ly/44z3Ndp
+Email: test@example.com
+Password: test1234
+Changelog
+Version 1.0
+Initial Release
+Requirements
+VPS Server with Ubuntu 20.04
+Firebase (Phone Authentication only)
+Google Maps & Geocoding",59,0,https://codecanyon.net/item/dalvroodoo-online-food-ordering-app-for-your-restaurant/52097009
+11,"RestroPRO - POS software for Restaurant, Cafe, Hotel, Food Truck",https://codecanyon.img.customer.envatousercontent.com/files/494915627/inline_preview.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=ca6f6a76d2a7c0641d8effbcaeae4f33,"Imagine a restaurant management system that simplifies your daily operations, empowers your staff, and elevates your customer service. That’s exactly what our RestroPRO POS system delivers.
+From streamlining orders and reservations to managing customers and tracking key metrics, this intuitive software is your one-stop shop for success. And the best part? It’s a PWA, so you can install it as an App on any device, Android, iPhone, iPad or Desktop, for ultimate convenience!
+Watch Video: https://www.youtube.com/watch?v=gA2Zeke4C14
+
+[RestroPRO, POS, Point-of-Sale, Restaurant POS app, POS for Restaurant]",39, 7 ,https://codecanyon.net/item/restropro-pos-software-for-restaurant-cafe-hotel-food-truck/51779937
+12,Restaurant POS Pro - Restaurant management system with kitchen and bar display,https://codecanyon.img.customer.envatousercontent.com/files/491114532/Restaurant%20management%20system-pro.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=e41cdec445fd960785362a6026ab21b3,"The Restaurant POS system orchestrates the bustling kitchen chaos, effortlessly handling menus, orders, and expenses. Seamlessly integrating data, it supports various order types and generates insightful reports. With database backups and customizable notifications, it ensures security and communication. Enhanced features like user activity logs and advanced reporting offer efficiency and strategic insights, shaping the restaurant’s success with precision and finesse. Here’s a comprehensive summary of its key features:
+Menu Management: Easily organize and update menus for clarity and ease of navigation.
+Multiple Variants: Each Food item is compatible with multiple variants (i.e. Pizza (sm, med, lg, xl, etc).
+Effortless Kitchen Coordination: Smooth communication between front and back-of-house operations.
+Smart Expense Tracking: Intelligently track expenses for better financial management.
+Versatile Order Management: Efficiently manage various order types with customization options.
+Insightful Reporting: Detailed reports provide valuable insights for decision-making.
+Database Backup: Ensure data security with internal backups.
+Seamless Tip Collection: Simplify tipping process for staff and customers.
+Multi-Channel Notifications: Receive notifications via email, SMS, or WhatsApp for important events.
+Customizable Notification Templates: Tailor notifications templates with dynamic placeholders.
+Enhanced Kitchen/Bar Functionality: Optimize workflow with kitchen/bar tools and features.
+User Activity Logs: Monitor user activity for accountability and security.
+Cash Register Management: Securely manage cash transactions with tracking features.
+Advanced Expense Reporting: Generate detailed expense reports for deeper insights.
+Top-Selling Items Analysis: Identify trends for informed decisions on menu and inventory management.
+In summary, the Restaurant POS system with kitchen display is a comprehensive solution for streamlining restaurant operations and enhancing customer service. For a demo, visit here. Full documentation is available here. For support, reach out to Rose Finch or email info.codehas@gmail.com.
+Please read it before purchasing",120, 2 ,https://codecanyon.net/item/restaurant-pos-pro-restaurant-management-system-with-kitchen-and-bar-display/51251446
+13,FoodKing - Restaurant Food Delivery System with Admin Panel & Delivery Man App | Restaurant POS,https://codecanyon.img.customer.envatousercontent.com/files/498016385/fk_banner.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=9341d8ce4ec97785c5b81b3d8fdd46b8,"FoodKing is a cutting-edge food delivery app and restaurant management system designed to support both single and multi-branch restaurants. It comes with a robust POS system, complemented by user-friendly applications, including an app for customers, a website, and an app for delivery personnel. The system boasts a feature-rich admin panel developed with Laravel Framework and Vue, empowering you to efficiently and intelligently manage every aspect of your restaurant operations. Experience accelerated growth and seamless management with FoodKing’s powerful tools at your disposal.
+Demo Links
+
+Demo Credentials
+WEB & APP LOGIN CREDENTIALS
+Admin
+email: admin@example.com
+password: 123456
+
+Customer
+email: customer@example.com
+password: 123456
+
+Delivery Man
+email: deliveryboy@example.com
+password: 123456
+
+Branch Manager
+email: branchmanager@example.com
+password: 123456
+
+Pos Operator
+email: posoperator@example.com
+password: 123456
+
+CUSTOMER USER JOURNEY
+Users can see the home page. Now he can set the current location and allow the location access. Here have the variant types of food, offer, and 2 types of foods. like non-veg and veg.
+The user can log in to the system with his email and password. otherwise, he can signup for this with some information.
+Easily customers can filter the product by category-wise list and grid view also.
+When customers click on a product there have possible many options like product variation, extra, and some addons also. They can easily manage the product quantity and add it to the card.
+If the customer clicks the “process to checkout” button he could see the checkout page. if the customer did not have a login then it will redirect to the login page and after login, signup, or guest login then he can see the checkout page.
+The checkout page has many functions. first of all, the customer can select the can take away for the order or deliver the product. now select the nearest branch. then select his delivery address. if the delivery address is not available then create an address first. now select which time he can get the order and select the payment gateway like cash on delivery and other card payment options. if you have a coupon the customer can use the coupon for the discount. now click the place order button.
+Now the customer can see his order details with the current status for this order on the order summary page.
+There has the option to see the previous order. then go to the user dropdown option then see my order link then click my order link the customer can see the previous order.
+There has a chat option. where customers can easily contact the branch manager by chat. go to the chat menu from the user dropdown and select a branch and start a chat.
+Customer can manage their address from the user dropdown menu and click add a new address and fill up all information with select the map location also.
+If the customer can edit their profile then go to the user dropdown page and click edit profile. now he can change his phone number, email, etc.
+FRONTEND FEATURES
+Home Page
+Allow location
+Branch switch
+Language switch
+Search item
+Menu-wise item search (Category)
+Veg/Non-veg wise item search
+Newsletter subscription
+Footer section
+Menu page
+Menu-wise item search (gird and list view)
+Variation page
+Show variation (single and multi-variation)
+Add to cart
+Cart page
+Set all product lists with variation and addon also
+Checkout page
+Get branch select option
+Add delivery address system
+Delivery time add
+Add Payment gateway
+PayPal
+Stripe
+RazorPay
+FlutterWave
+PayStack
+Bkash
+Sslcommerz
+PayTm
+MercadoPago
+SenangPay
+Cashfree Payments
+Mollie
+Item list also
+Add coupon system
+My orders
+Set my order list (active & previous order)
+Order view (active & previous order, Cancel order also)
+Auth
+Login with guest login
+Register
+Forget password
+Profile
+Address CRUD
+Profile edit
+Change password
+Messing system
+Other page
+Contact us
+About us
+Terms & conditions
+Privacy
+BACKEND FEATURES
+Dashboard
+Items
+Item info
+Item variations
+Item extras
+Item addons
+POS
+Live orders
+Orders
+Order info
+Invoice
+User details
+Coupons
+Offer/Promos
+Review (remove)
+Push notification
+Messing
+Users
+Admins
+Profile
+Security (change password)
+Location
+orders
+Delivery Boy
+Profile
+Security (change Password)
+Location
+Orders
+Customer
+Profile
+Security (change password)
+Location
+Orders
+Accounts
+Transactions
+Reports
+Sales
+Item (which item is a high-selling item)
+Credit Balance (user wallet balance)
+Settings
+Company
+Site
+Logo & icons
+Branches
+Mail
+Currencies
+Taxes
+Item Categories
+Item Attributes
+Sliders
+Pages
+Languages
+SMS
+Notifications
+Socials (optional)
+OTP
+Analytics
+Cookies
+Payment Gateways
+Role & Permissions
+App
+License Code
+Addons
+Update
+CHANGE LOG
+Version 2.2 (12 May 2024)
+- Iyzico payment gateway added
+- Made seo friendly URL
+- Phonepe payment gateway minor bug fix
+- Table order minor style fix
+Version 2.1 (2 May 2024)
+- Minor bug fixed in Razorpay
+- Minor bug fixed in the wallet balance 
+- Minor bug fixed in the items report
+- Minor bug fixed in address module
+- Minor bug fixed in the sales report
+Version 2.0 (14 Mar 2024)
+- Drag and drop feature for item category.
+- Added subscribers module on admin panel.
+- Added editor for page module.
+- Language minor bug fix.
+- Small devices language switching bug fix.
+- Timeslot minor bug fix.
+- Pos minor bug fix.
+- Stripe minor bug fix for iOS.
+- Bkash minor bug fix.
+- 2 App latest version update and feature update.(flutter 3.19.2, dart 3.3.0)
+Version 1.9 (12 Feb 2024)
+- RTL feature added.
+- Telr payment gateway added.
+- Msg91 SMS gateway minor bug fix.
+- Company, site setting minor bug fix.
+- Dining table minor bug fix.
+- Pos minor bug fix.
+- Coupon date filter minor bug fix.
+- 2 App latest version update and feature update.(flutter 3.16.9, dart 3.2.6)
+Version 1.8 (01 Jan 2024)
+- Tax minor bugs fix.
+- The table creates bug fixes.
+- 2 App latest version update and feature update.(flutter 3.16.5, dart 3.2.3)
+Version 1.7 (20 Nov 2023)
+- Table Qr Code Generator.
+- QR Contactless Table ordering system.
+- 4 new SMS gateways (2Factor, BulkSMS, BulkSMSBD, Telesign).
+- Phonepe payment gateway integrated
+- Flutter version update on apps and feature updates.
+Version 1.6 (26 Oct 2023)
+- Signup minor bug fix.
+- Dashboard minor bug fix.
+- Online order minor bug fix.
+- 2 App latest version update and feature update.
+Version 1.5 (25 Sep 2023)
+- Language feature update.
+- Coupon minor bugs fix.
+- Offer minor bug fixes.
+- Push notification update.
+- 2 Payment gateway add.
+- 2 App latest version update and feature update.
+Version 1.4 (29 Aug 2023)
+- Mail and SMS admin order notification for admin.
+- Page module update.
+- Tax module minor bug fix.
+- Category module minor bug fix.
+- Addon variation minor bug fix.
+- Time Slot minor bug fix.
+- 2 App latest version update and feature update
+Version 1.3 (27 July 2023)
+- Tax amount displayed in the order invoice.
+- Frontend profile responsive issue.
+- Order alert notification at admin panel.
+- Account deactivate system add in app
+- Checkout feature updated with a payment method 
+- 2 App latest version update
+Version 1.2 (22 June 2023)
+- 10 New payment gateway added
+- 3 New SMS gateway added
+- Installer minor bugs fixed
+- Language edit system added
+- Currency issue fixed
+Version 1.1 (08 June 2023)
+- Minor bugs fixing in Web & API
+- Flutter version 3.7.10 supported
+- App minor bugs fixing
+- System stability update
+Version 1.0 (31 May 2023)
+- Initial Release",43, 527 ,https://codecanyon.net/item/foodking-restaurant-food-delivery-system-with-admin-panel-delivery-man-app-restaurant-pos/45845092
+14,Karenderia Multiple Restaurant System,https://codecanyon.img.customer.envatousercontent.com/files/486211533/Karenderia%20banner.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=5499804e1778966e2d01405a5410aee2,"Admin Panel    Merchant Panel    Website    Customer App    Merchant App    Driver App    Single Merchant Website    Single Merchant App   
+Notice : To test ordering please use Los angeles as address
+– Version: 1.1.7
+– Last update: February 22, 2024
+– Update notes: update process has been change since version 1.0.7,
+step 1 extract the update.zip as before
+step 2 no need to run the backoffice/update anymore just go to admin panel -> ulitities -> fixed database, this will create all new tables and menu
+Join our community at https://community.bastisapp.com/
+– Video tutorials
+Karenderia installation
+https://youtu.be/5LNxZctwrQE
+How to update karenderia
+https://youtu.be/mSQZQxVmPMI
+How to translate
+https://youtu.be/RfgBHGNsJC0
+change backoffice url
+https://youtu.be/8lME58FTN48
+create google api key
+https://youtu.be/kGoeebny2ls
+Configure reCAPTCHA
+https://youtu.be/yPkpVvI4rpg
+Guide membership plan
+https://youtu.be/c8fW5XQY0Zo
+create pusher account
+https://youtu.be/ANxvT8eIamc
+create food items
+https://youtu.be/MT-5mXMdTK8
+food items addons and options
+https://youtu.be/HBANE-AuDp4
+Set merchant opening hours
+https://youtu.be/Uc-1MmzbhDk
+set address location
+https://youtu.be/6w0HSzgn8Yk
+real time notifications
+https://youtu.be/IVv9Zv-jiXA
+POS
+https://youtu.be/Y_97Q6jjJv4
+enabled payment
+https://youtu.be/LmahpSuvGLY
+merchant earnings
+https://youtu.be/7lr-z4EpC5s
+receiving cash on delivery
+https://youtu.be/jFM4FJOYU84
+Full refund
+https://youtu.be/A7TmFagfXoo
+Cancel order with partial refund
+https://youtu.be/Tp_Wu71Zl4w
+pause ordering
+https://youtu.be/TnvA2kJhU_c
+Standard tax
+https://youtu.be/kXp4DAlwtlI
+Multiple tax
+https://youtu.be/231nQZc_Sf8
+Status actions
+https://youtu.be/NMG7HJ3PfYE
+create template
+https://youtu.be/suQn1wjo0WQ
+Order buttons actions
+https://youtu.be/Pxz44B6v08Q
+order tracking settings
+https://youtu.be/tZChdrXQy-g
+merchant withdrawals
+https://youtu.be/bZkd0ymi02Y
+web push notifications
+https://youtu.be/BgLT_pplfRQ
+pickup instructions
+https://youtu.be/IK6SGD0Upl0
+Version 1.1.7 – 22 February 2024
+- fixed auto geolocation search
+
+Version 1.1.6 – 12 February 2024
+fixed - chat by adding new fields server time fields
+fixed - issue in reports mysql full group
+fixed - web print missing address
+
+Version 1.1.5 – 09 February 2024
+new - single app mobile store information and version - this is for knowing if the app needed an update
+fixed - estimation time in search results and menu
+fixed - driver management map view
+update - order table with new fields created_at for grouping of reports issue with mysql strict
+update - files update to make compatible with single mobile app
+
+Version 1.1.4 – 31 January 2024
+new - ewallet history in customer details
+new - points history in customer details
+new - send push message when sending chat message
+new - points expirations
+new - points thresholds - backoffice -> loyalty points -> settings ->  Enabled thresholds 
+new - pay on delivery selection of merchant
+new - add campaign for merchant to join loyalty points
+new - options to disabled include utensil
+new - add email subscriptions
+new - SEO sitemap XML - backoffice -> website -> XML sitemap
+new - add cuisine tag in food tems
+new - add tag in restaurant results for free delivery first order
+update - translation words - backoffice -> attributes -> language -> update
+update - move all crons details to backoffice -> utilities -> cron jobs
+fixed - custom url manager if merchant slug is empty
+fixed - custom url manager if cuisine slug is empty
+fixed - free delivery on first order
+fixed - support arabic PDF file
+fixed - issue with km still show distance in miles
+fixed - get new orders to select only today
+fixed - saved payment list during checkout
+fixed - offline bank deposit send instructions - cpayments.php
+fixed - some minor issue
+
+Version 1.1.3 – 07 December 2023
+fixed - sales widget sort data
+fixed - homepage merchant list
+fixed - cuisine html chraracter
+fixed - cuisine list showing even is not active in front end
+fixed - auto inline add to cart remove asking of address
+fixed - welcome email during registration
+fixed - block customer by merchant
+fixed - calendar translation
+fixed - mask phone number add settings
+update - reorganize menu
+new - migration tools - for old kmrs user
+new - seo for merchant menu pages
+new - add default avatar for user,food and merchant
+new - add RTL layout in front end
+new - Customer digital wallet
+new - top-up digital wallet
+new - payment using digital wallets
+new - refund to digital wallets
+new - real time live chat  - video instructions for configuring chat https://youtu.be/Y1T2hzt__vc?si=iCcGJWvS0g7kZi7H
+
+Version 1.1.2 – 29 October 2023
+fixed - upload csv language file if language has spaces
+update - re-arrange access menu
+update -  locate address from map after entering address in home page
+fixed - booking time slot 
+fixed - voucher code computation when using exchange rate
+fixed - if date/time is already passed
+fixed - price list in menu not responsive
+update - push notifications to customer app
+update - Banner to add food wise and restaurant featured
+add - new permission menu for merchant dashboard widgets
+add - get my current location in map
+add - drap map
+add - sort banner
+new - add selection of booking tables during checkout if transaction type is dinein
+new - debit coupons/points to merchant when created by merchant
+new - debit coupons/points to admin when created by website owner
+new - add custom css for front end and backend
+fixed - some minor issue
+
+Version 1.1.1 – 09 October 2023
+update - push notifications to merchant app
+update - push notifications to driver app
+new -  auto accept orders
+new - cron for auto assign order to driver
+new - continues alert to merchant app for new orders
+new - add sort cuisine
+new - add options to end shit and delete shift of drivers
+new - add currency for driver default currency
+fixed - issue in points by merchant
+fixed - issue with google recapcha keys
+fixed - language selection when your in custom page
+fixed - assign driver in order list page
+fixed - add filter to order list
+fixed - add back to top in menu page
+fixed - push notifications to merchant and driver
+fixed - some missing translations
+fixed - some minor issue
+
+Version 1.1.0 – 25 August 2023
+new - add curency in merchant signup
+new - add item gallery
+new - table booking user must login
+new - manage table booking under customer profile
+new - add search for food and restaurants
+update - Choose address from Map
+update - add street name and street number in address details
+update - updates code for customer mobile app
+fixed - exchange rate for points convertions
+fixed - points pagination
+fixed - shift schedule end date not working
+fixed - food item availability add options to change 24 hours format
+fixed - continues alert for new order
+fixed - remove sending of emails to guest user
+fixed - exchange rate for cash on delivery payment change
+fixed - search menu price exchange rate
+fixed - some minor issue
+
+Version 1.0.9 – 08 August 2023
+new - Multi currency addons
+new - Loyalty points addon
+new - merchant own delivery management
+new - promo code add transation type
+new - promo code add visible 
+new - added new payment pay on delivery or pay by card type
+new - continues alert until order is viewed
+new - add options to hide promo code on front end
+new - add application to delivery/pickup when creating coupons in merchant panel
+new - able to sort payment gateway
+new - add allergens to food item
+new - deposit link when viewing order details in front end
+new - able to sort transaction type
+new - settings for Non-Commissioned POS Orders 
+fixed - missing permission for food menu
+fixed - add credit card details in FEIE 80mm WiFi Smart Printer
+fixed - misising permission for uploading media files
+fixed - missing translation for booking date list and timeslot
+fixed - merchant widrawal disabled
+fixed - payment logo in merchant panel
+fixed - rejection list translation
+fixed - bugs in addon sorting
+fixed - menu remove payment gateway menu if merchant type is commission
+fixed - add restaurant_name tag to seo menu 
+fixed - membership signup type not translating
+fixed - POS add details table and room number in receipt
+fixed - add settings for booking time selection 24 hours format
+fixed - 24 hours format for time picker
+fixed - all access permission
+fixed - front end footer menu translation
+fixed - stripe webhooks for merchant membership type
+fixed - guest checkout resend code
+fixed - missing translations
+
+Version 1.0.8 – 22 June 2023
+fixed - multiple tax remove if tax is less than or equal to zero
+fixed - min missing in services list under menu page
+fixed - merchant account deletion OTP code
+fixed - translation deleted when you sort category and addon category
+fixed - saved address during first time registration
+fixed - logout if account is deleted in backend
+fixed - merchant view order by customer
+fixed - voucher use per once
+update - main merchant account add status (this is for deletion account status)
+fixed - buyer history remove draft order
+fixed - merchant verification confirm email
+fixed - opening hours in different language
+fixed - status in order details not translating
+new - add format to credit card
+new - options to have default opening hours when merchant is new created
+new - upload bulk merchant csv file
+new - options to copy payment gateway when merchant is created
+new - send push to single app
+new - send push to platform ios
+new - merchant panel view customer details like orders information and address
+new - add to test runactions if working
+new - allow login after merchant registration for commission
+update - update all search
+fixed - promotional voucher and offers
+fixed - displaying of food category,addons,items if has no translation
+update - add detete words in language translation
+fixed - update role access admin and merchant
+new - define merchant menu access set by admin
+new - options to sort  addon category
+new - options to sort  addon category item
+new - allow merchant to set there own timezone
+fixed - backoffice login logo and merchant
+fixed - backoffice login app store and google play link
+fixed - category availability
+fixed - food item availability
+new - notify customer if the added items in their cart is not available
+new - remove items in the cart if item is not available
+new - search menu to quickly find menus in backoffice admin/merchant
+fixed - blank csv for front and backend translation
+fixed - if order is delivered admin panel delivery status does not update
+fixed - add missing invoice bank payment information
+fixed - no translation for merchant info
+fixed - no short description for food item translation
+fixed - remove device registered if push is failed
+fixed - add options to disabled single food item add to cart
+new - add export excel/pdf/csv to all reports
+new - add daily sales report that can be printed using FEIE 80mm WiFi Smart Printer
+fixed - POS category item list sorting
+fixed - POS to include commission
+fixed - POS add table selection for dinein
+new - driver signup
+new - SEO
+new - Different commission for transaction type
+new - add small order fee
+update - service charge to have percentage and fixed amount
+new - addon selection of min and maximum
+new - add guest checkout
+new - change home search
+new - change address checkout 
+
+Version 1.0.7 – 04 March 2023
+- fixed feieyun printer missing size
+- fixed feieyun printer label for delivery and pickup date/time
+- fixed merchant panel edit/delete reviews
+- fixed some words does not translate
+- New admin can manage order
+- New driver managements
+
+Version 1.0.6 – 17 January 2023
+- fixed merchant edit custom page 
+- fixed auto print  FEIE 80mm WiFi Smart Printer
+- fixed fixed words los angeles in mobile view
+- fixed google store and apple link
+- fixed merchant user profile picture
+- fixed auto login for admin user
+- new file preparation for single app
+
+Version 1.0.5 – 06 January 2023
+- issue invoice list missing file JsonException.php in backoffice/protected/vendor
+- fixed cuisine link in mobile view
+- fixed invoice cron link
+- fixed available addon list
+- fixed mapbox if country set is more than one
+- fixed cooking Reference required
+- fixed food item availability
+- fixed category availability
+- fixed food item not for sale
+- fixed promo code showing if only for selected customer
+- fixed add language code in language list
+- fixed add language code for captcha
+- fixed static text Los Angeles in search results
+- fixed receipt logo
+- fixed FEIE 80mm WiFi Smart Printer auto print
+- fixed web print footer text and logo
+- fixed nexmo sending of sms failed due to conflict firebase library
+- new table reservation management
+- new add tips value management
+- new booking cancel reason management
+- new contact us page
+- new payment change for cod payment
+- new maximum amount for cod payment
+- new print logs
+- new options to on/off run actions due to some server not supported
+- new utilities fixed database and clean database
+- new Ingredients pre-selected 
+- new food menu layout
+
+Version 1.0.4 – 16 December 2022
+- add Invoice to commission and membership type
+- add Mapbox
+- add options to accept payment without adding credit 
+- add auto detect address homepage
+- add FEIE 80mm WiFi Smart Printer
+- add social links 
+- add sorting of category,addon and items
+- add language parameters to all runactions
+- add options redirect to PWA if has mobile app when browsing front homepage
+- add customer list in merchant panel
+- add menu for merchant mobile app
+- update tips can add tips based on transaction
+- update tips to use fixed or percentage
+- update turn off mobile app section on front end and add link
+- fixed upload bank deposit
+- fixed offline credit card saving and display on backend
+- fixed bugs in promo if translation added to days
+- fixed review image
+- fixed cuisine link homepage
+- fixed pin location
+- fixed disabled ordering
+- fixed can re-order again based on status
+- fixed missing tables driver_meta 
+- fixed promo price membership plan
+
+Version 1.0.3 – 29 October 2022
+- fixed issue in search results due to none services 
+- fixed missing location name and delivery instructions
+- fixed time interval selection
+- fixed merchant forgot password
+- fixed auto login is using merchant id instead of merchant user id
+- fixed login remember me 
+- fixed tips showing even disabled in merchant panel
+- fixed adding dynamic delivery rates
+- add Google Analytics
+- add facebook pixels
+- update google sigin to use new latest sdk
+- update facebook login
+- update tracking link for single app
+- update currency to add manually currency symbol
+
+Version 1.0.2 – 16 May 2022
+- fixed send otp when changing numbers and email
+- fixed search results when using different language
+- fixed sales summary report not counting complete status
+- fixed issue with transaction type if trans type is disabled in admin panel
+- fixed website logo to appear on themes
+- fixed merchant header to show on front end
+- fixed date/time format
+- fixed voucher and offer discount
+- fixed item list to include prices and discount
+- fixed menu top header layout
+- fixed html character showing in popular items
+- new – Offline Bank payment gateway
+- new – Upload addons manager
+- new – Settings for single website
+
+Version 1.0.1 – 22 February 2022
+- new translation modules
+- new full mobile device support backend and front end
+- update user interface 
+- fixed partial refund
+- fixed set payout to paid
+- fixed tax set default
+- fixed issue with tax if not set
+- fixed phone number limit
+- fixed phone default flag
+- fixed forgot password admin,merchant and customer
+- fixed get merchant delivery directions
+- fixed razor pay
+
+Version 1.0 – 31 January 2022
+- Initial Release.",55," 5,115 ",https://codecanyon.net/item/karenderia-multiple-restaurant-system/9118694
+15,Your Restaurant App,https://codecanyon.img.customer.envatousercontent.com/files/472911933/inline.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=345881c1102aa3c859c580ce97f83462,"Your Restaurant App is a mobile restaurant app which run under Android platform that used for manages restaurant menus and reservations, also included with rich features such as images gallery, news, location, social, rtl supports, etc. Administrator can manages the reservation order, can add, edit or delete category menu, restaurant menu, gallery, news, settings tax and currency, etc. This application created by Android for client side and then PHP MySql for Admin Panel side. Run under Android platform which is the most popular operating system in the world. Using this application you can save your money and time in creating application for your restaurant app.
+Features
+Try Demo Admin Panel
+Username : admin
+Password : admin
+
+
+
+
+
+
+
+
+
+
+
+Change Log :
+Your Restaurant App v2.1.0
+- Build in latest Android Studio 3.4.2
+- Update to latest Gradle Tools and Library
+- Update targetSdkVersion to 28
+- Replace FCM with OneSignal Push Notification
+- Fix bugs and performance improvement
+
+Your Restaurant App v2.0.0
+- Build in latest Android Studio 3.1.3
+- Update to latest Gradle Tools and Library
+- Material Design UI Improvement
+- Redesign Homepage
+- Fix bugs and performance improvement
+- Onesignal removed
+
+Your Restaurant App v1.0.0
+- Initial Release
+Rate it if you like it
+when you are purchasing this app, don’t forget to give a rate if you think this app is useful for you.",20, 283 ,https://codecanyon.net/item/your-restaurant-app/18273140
+16,Eorder - Multitenant Restaurant / Food Ordering Website (SAAS),https://codecanyon.img.customer.envatousercontent.com/files/491731502/preview-2.0.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=cafb187c5582a7091ece431c5ae995de,"About
+“Eorder” is a Restaurant / Food Ordering Website SAAS (Multitenancy) which provides 7 attractive themes for tenants
+Tenant can use Eorder to create restaurant / food ordering websites within minutes.
+Admin can create monthly / yearly / lifetime packages, control features for that packages. Admin can make a package Free, Trial, Premium The Admin’s website frontend part is Multi-lingual & also RTL supported
+Tenants can purchase this packages & have a user dashboard to create a food ordering website. They can upload menus, receive orders, manage orders / customers
+Eroder provides 10 automated payment gateways (Paypal, Stripe, Mollie, Razorpay, PayTm, Instamojo, Flutterwave, Paystack, Mercado Pago, Authorize.net) & unlimited offline gateways for both Admin & Tenant.
+Tenant’s Food Ordering frontend part is fully Multilingual & RTL Supported
+Eorder provide vast features for tenants like – 7 Themes, custom doamin, automaric subdomain, whatsapp order, pos, qr order, website order, sales report / export, advanced qr builder with prebuilt templates, home delivery / pickup / on table orders, item addons / variations, staffs management with permissions, live orders, pwa installability feature, push notification, call waiter, table reservations with form builder, postal code based delivery (on / off), social logins & so much more
+Online Documentation:
+Link: https://eordar.xyz/public/documentation/
+Main Website & All Login Link (Admin, Tenant, Tenant’s Customer, Tenant’s Staff):
+Website Link: https://eordar.xyz/
+Admin Login: https://eordar.xyz/admin/
+Tenant Login: https://eordar.xyz/user/login
+Tenant’s Staff (Manager) Login: https://eordar.xyz/fastifo/user/login NB: This Staff (Manager) is created by Tenant with Role / Permission
+Tenant’s Customer Login: https://fastifo.xyz/customer/login
+Tenant’s Restaurant Website Demo Links:
+Restaurant Theme (Custom Domain Based URL): https://fastifo.xyz/
+Restaurant Theme (Subdomain Based URL): https://fastifo.eordar.xyz/
+Restaurant Theme (Path Based URL): https://eordar.xyz/fastifo
+Bakery & Pastry Theme: https://eordar.xyz/bakery
+Pizza Theme: https://eordar.xyz/pizza
+Coffee Theme: https://eordar.xyz/coffee
+Medical Theme: https://eordar.xyz/medicine
+Grocery Theme: https://eordar.xyz/grocery
+Beverage Theme: https://eordar.xyz/beverage
+
+10 Online Payment Gateways (Unlimited Offline / Manual / Bank Available too)
+Tenant’s Restaurant / Food Ordering Website’s Highlighted Features
+Tenant’s Restaurant Website & Customer Panel Features:
+✅ 7 Themes
+✅ Custom Domain
+✅ Automatic Subdomain & Path Based URL
+✅ Item Variations & Addons
+✅ Website Order
+✅ POS Order
+✅ Whatsapp Order
+✅ QR Menu Order
+✅ Advanced QR Menu Builder with lot of filters
+✅ 3 Prebuilt QR Menu Banner Templates (PSD)
+✅ Tables with QR Code Builder for each table
+✅ Order Time Management
+✅ Realtime Order Notification
+✅ Delivery Time Management (Enable / Disable)
+✅ Orders Management with Filters
+✅ Sales Report
+✅ Home Delivery, Pickup, On Table (Enable / Disable option for each method)
+✅ Amazon AWS S3
+✅ PWA Installation Support
+✅ Push Notification
+✅ Table Reservations
+✅ Table Reservation Form Builder
+✅ Staffs Management with Role / Permissions
+✅ Postal Code Based Charge & Delivery (On / Off)
+✅ Popup Banner Builder
+✅ 7 formats of popups
+✅ Multilingual & RTL Frontend
+✅ Drag & Drop Menu Builder
+✅ Registered Customers Management
+✅ Guest Customers Record
+✅ Social Logins
+✅ Call Waiter
+✅ Invoice Generation
+✅ Email Templates
+✅ Mail to Subscribers
+✅ FAQ, Blog, Contact
+✅ Homepage sections enable / disable
+✅ 10 Online Payment Gateways
+✅ Unlimited Offline Payment Methods
+✅ Currency Settings
+✅ Website Color Settings
+✅ Preloader, Logo, Favicon Upload
+✅ SEO Info Management
+✅ Cookie Alert
+✅ Custom Page Management
+✅ Pusher , Twilio, Disqus, Whatsapp Chat Button
+✅ Google Recaptcha
+✅ Google Analytics
+✅ Facebook Pexel
+✅ & a lot more
+Main Website & Admin Panel Features
+✅ Multilingual Frontend
+✅ RTL Supported Frontend
+✅ Unlimited Pricing Plans (Free / Trial / Premium) (Monthly / Yearly / Lifetime)
+✅ 10 Online Payment Gateways
+✅ Unlimited offline payment gateways
+✅ Custom Domains Management
+✅ Subdomains Management
+✅ Restaurant Listings Page (Enable / Disable)
+✅ Base Currency Setup
+✅ Drag & Drop Menu Builder in Admin Dashboard
+✅ Coupon During Registration
+✅ Light & Dark Admin Dashboard
+✅ Home Page Sections Hide / Show
+✅ Base Color Settings
+✅ Preloader, Logo, Favicon Upload
+✅ Package Features Management
+✅ Packages Management
+✅ Email Templates
+✅ Payment Logs
+✅ Popup Builder with 7 Predefined Templates
+✅ SEO Info Management
+✅ Blogs, FAQ etc all website content management
+✅ Custom Pages
+✅ Registered Users Management
+✅ Maintenance mode
+✅ Admin / Role / Permission Management
+✅ Secret Login to Tenant Dashboard
+Admin Workflow:
+– Add Languages
+– Add Packages with Features
+– Setup Payment Gateways
+– Upload Language wise contents (FAQ, Blogs etc…)
+– Manage Users
+User Workflow:
+– choose a package (premium / trial / Free) (monthly / yearly / lifetime)
+– register & checkout
+– verify email & login to dashboard
+– add languages
+– upload menus, receive orders, manage orders etc…
+Server Requirements
+Built with Laravel 9.x
+- PHP 8.0, 8.1
+- BCMath PHP Extension
+- Ctype PHP Extension
+- Fileinfo PHP Extension
+- JSON PHP Extension
+- Mbstring PHP Extension
+- OpenSSL PHP Extension
+- PDO PHP Extension
+- Tokenizer PHP Extension
+- XML PHP Extension
+- Imagick Extension
+- GMP Extension
+- Imagick Extension
+Changelogs
+VERSION 2.0 – RELEASED ON 18TH MARCH, 2024
+        - Pizza Theme Added
+        - Coffee Theme Added
+        - Bakery Theme Added
+        - Beverage Theme Added
+        - Grocery Theme Added
+        - Medicine Theme Added
+        - FIXED: Pusher Issue
+        - FIXED: Tenant Expire Issue
+        - FIXED: Coupon Issue
+        - FIXED: Cookie Alert Issue
+        - FIXED: Item Details Page Issue
+    
+VERSION 1.0 – RELEASED ON 10TH FEBRUARY, 2024
+Initial Release
+    ",49, 88 ,https://codecanyon.net/item/eorder-multitenant-restaurant-food-ordering-website-saas/50718143
+17,Karenderia Merchant App Restaurant,https://codecanyon.img.customer.envatousercontent.com/files/487349980/Karenderia%20Merchant%20App%20Restaurant%20Banner.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=5088ee595bd91572876f971315cc45f6,"Admin Panel    Merchant Panel    Website    APK DEMO   
+– Version: 1.0.5
+– Last update: October 29, 2023
+Update Instructions
+During update your mobile app vue files, please run the npm install again both in main folder and src-capacitor folder
+Requirements
+NodeJS 16+
+Xcode 14.1+ (for iOS)
+Android Studio Flamingo 2022.2.1 or Giraffe or newer version (for Android)
+
+Steps for updating
+1. Update first your quasar cli by executing this command
+quasar upgrade -i
+2. use the latest mobile Files
+3. execute npm install in main folder and src-capacitor folder
+Important : Merchant app requires karenderia version 1.1.2 or latest
+Notice to buyer : this is addon for Karenderia Multiple Restaurant System, you need to purchase KMRS for this pwa and android app to work.
+Notice when doing test in merchant app , when editing food items you cannot save it cause its retricted in demo and error will return false, in order to create food items signup as new merchant
+Watch merchant app in action using thermal printer https://youtu.be/U5DD9KJ8J6Q
+Join our community at https://community.bastisapp.com/
+– Video tutorials
+Build your app
+https://youtu.be/9-_CkcVEVdU
+Configure firebase project
+https://youtu.be/IvQGqTJFH4M
+Create keystore
+https://youtu.be/_5SoV6dsMDo
+Configure google login
+https://youtu.be/rAzaZz70z3U
+Configure facebook login
+https://youtu.be/65j7D0Oc2sA
+Change android package ID and package name
+https://youtu.be/2owVmp2EX_w
+Version 1.0.5 – 29 October 2023
+new - print receipt using binaryimage to support different language
+new - access permission
+new - add count in order tabs
+fixed - driver scheduled 
+fixed - order preview food item does not translate
+fixed - bluetooth printing issue in iOS
+
+Version 1.0.4 – 09 October 2023
+update - API level 33 (android)
+fixed - add food item issue with translation for short description
+fixed - merchant signup add currency and services selections
+fixed - add confirmation when going online/offline
+fixed - show customer email and name in order details
+fixed - add schedule order tabs
+fixed - add category food items in order details
+new - add select language when first time opening the app
+new - add sort addon category
+new - add sort addon items
+new - add sort items
+new - manage self delivery
+new - manage table booking
+new - POS management
+new - Promo management
+new - Payment management
+new - Images/Media management
+new - Account management
+new - Invoice management
+new - Reports 
+new - add options to remove currency for printing
+new - continues alert for new orders
+new - add reports
+new - reports print using thermal printer
+new - auto accept order
+check - check thermal print for very long list of food items
+
+Version 1.0.3 – 03 April 2023
+fixed - account deletion OTP 
+fixed - account delete status
+fixed - printing add size
+new - Translation
+new - RLT support
+
+Version 1.0.2 – 08 January 2023
+fixed - auto refesh order list when new order was place
+fixed - accepting of offline payment
+fixed - sunmi printing
+new - add service id and characteristic for adding printer
+
+Version 1.0.1 – 18 December 2022
+- fixed missing files AppMerchantIdentity.php
+
+Version 1.0 – 12 December 2022
+- Initial Release.",35, 269 ,https://codecanyon.net/item/karenderia-merchant-app-restaurant/42215908
+18,Ezziresto - Restaurant POS - Restaurant management system with kitchen display,https://codecanyon.img.customer.envatousercontent.com/files/456638994/Inline%20preview.jpeg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=606e5bceb982bb6a924e4d0d6b8e914d,"What is Ezziresto ?
+Welcome to Ezziresto, our fast and secure C# WinForms desktop software, tailored to manage restaurant, fast food, and cafeteria businesses. With an intuitive interface, robust security, and comprehensive management features, Ezziresto streamlines operations, enhances customer experiences, and maximizes profitability. Upgrade your business with Ezziresto today.
+Ezziresto using third party component that is DevExpress version 22.2 to build the product. Fortunately, we have distribute the product and the source code with DevExpress 22.2 library by following DevExpress EULA. We purchase and have valid DevExpress 22.2 license. So you do not need to purchase and have DevExpress license to use Ezziresto application and Source code. Unfortunately, if you did not have the license, you will not be able working with DevExpress control visually through Visual Studio designer. But, accessing the DevExpress library through back end C# code is still granted.
+User/password: admin@gmail.com/123456
+REQUIREMENT
+Microsoft.NET Framework 4.7 – VS 2019
+SQL Server 2019 – up to
+DevExpress 22.2 or higher
+Windows xp, 7, 8, 8.1 and 10 (Support all windows version)
+For Support, please email us directly at: sk.studio.2023@gmail.com
+Quality verified by Envato Market.
+Complete Source Code & Database
+Easy for installation and easily can update.
+We will help you to Install & Free support
+Regular updates
+Free future updates
+Welcome for suggestions
+Change Log
+Version 1.0.5 (07-November-2023)
+- Change the dashboard page and add the earnings screen.
+- Table Page with Area list not bind : Fixed.
+- Order List Print Not Working : Fixed.
+- Order List Pay Later Not Display : Fixed.
+- Order List branch name not display : Fixed.
+- Order List period list not bind : Fixed on all other pages.
+- Order Form History , Error When Select Customer : Fixed.
+- POS / GST,SGST,Discount,Service charge calculation wrong on total price : Fixed.
+- Order Details / GST,SGST,Discount,Service charge calculation wrong on total price : Fixed.
+- Order List / View Order Button,Having Error : Fixed.
+- Users Manage,Waiters Manage And Customers Manage / on edit button only first user can edit click on any user only first user edit : Fixed.
+- Bug Fixes and improvements.
+Version 1.0.4 (24-October-2023)
+- Save a bill and pay later.
+- Sound on / off setting in Setting Menu.
+- Manage Permissions and Roles.
+- Adding new items to already open order (Customer On a table).
+- Default Currency is not applied in all system : Fixed.
+- Adding a new purchase to the subtotal does not update if we change or update the quantity: Fixed.
+- POS screen If quantity is updated manually, total will not change: Fixed.
+- Bug Fixes and improvements.
+Version 1.0.3 (26-August-2023)
+- Added Loyalty points system.
+- Added custom currency and change it to default currency .
+- Added hold items feature at pos.
+- Added clear items btn at pos.
+- Added option to pay with sc or discount.
+- Added page for calculate the change and total price.
+- Bug Fixes and improvements.
+Version 1.0.2 (2-August-2023)
+- Multi languages EN,FR and AR.
+- Added Bar Code to food item.
+- Added audio files. 
+- Bug Fixes and improvements.
+Version 1.0.1 (26-July-2023)
+- Bug Fixes and improvements.
+- Transfer the whole order to another table.
+- Cancel an item or whole order.
+- Edit Order details : Customer,Whaiter,Table,Branch...etc.
+Version 1.0.0 (21-July-2023)
+- Initial Release.
+ .NET Framework automatically installed by Operating system. So basically you don’t have to do anything. Below are links you can read to learn more about .NET Framework and Windows Operating System dependencies.
+https://learn.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies",69, 34 ,https://codecanyon.net/item/ezziresto-restaurant-pos-restaurant-management-system-with-kitchen-display/46695415
+19,Khadyo - Restaurant Management Software and Restaurant POS with Online Food Ordering Website,https://codecanyon.img.customer.envatousercontent.com/files/497527202/preview.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=edaf8cee82d75fdf9ad8b72277d2e4cd,"Welcome to the future of Restaurant Management Software with Khadyo! Get ready to explore a user-friendly Restaurant POS system to manage your restaurant billing. Before you dive into the immersive visuals and features, let’s explore what Khadyo can offer your restaurant.
+Khadyo isn’t just an online food ordering website, it is a complete Restaurant Management Solution. It includes a user-friendly POS system, recipe management, product variation configuration, service and delivery charge management, tax, tip handling, work period tracking, sales reports, delivery management, SMS integration, multilingual and multicurrency support, and more!
+But that’s not all! Khadyo boasts advanced capabilities like multi-branch support, a stock management system, and separate panels for customers, delivery personnel, store managers, and admins. You can also assign specific functionalities to each user. Even if you don’t offer online ordering, Khadyo’s POS system can function independently.
+This restaurant management system can be used for any restaurant business like – bakery shop, coffee shop, pastry shop, cake shop, fast food shop, etc.
+Khaydo software is loaded in milliseconds. The wonderful feature of this software is that if you go from one page to another page it does not reload. Faster pages are more efficient and provide a much better user experience.
+Automate all your manual restaurant tasks with Khadyo and focus on what matters most – your customers!
+Check Online Demo
+System Requirements
+PHP >= 8.0+
+BCMath PHP Extension
+Ctype PHP Extension
+Fileinfo PHP Extension
+JSON PHP Extension
+Mbstring PHP Extension
+OpenSSL PHP Extension
+PDO PHP Extension
+Tokenizer PHP Extension
+XML PHP Extension
+curl enable
+GD enable
+zip enables
+
+We frequently update our software. So, check out another time, if you do not find your expected function. You can also leave a comment for your requirement. We appreciate your suggestions.
+Top Features at a Glance
+1. No reload & Superfast – SAVE YOUR BROWSING TIME
+2. Multiple branches – ADD YOUR BRANCHES
+3. Employee Panel – ADD STAFF ACCOUNT
+4. Kitchen Panel – ADD KITCHEN USER
+5. Mobile Operatable – OPERATE RESTAURANT WITH YOUR MOBILE
+6. Easiest POS – BEST POS IN THE MARKET
+7. Multiple Languages – ADD YOUR OWN LANGUAGE
+8. Multiple Currencies – ADD YOUR OWN CURRENCY
+9. And Many more.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: If you are using a Khadyo version older than 3.5, you won’t be able to update it to version 3.5 or any upcoming versions greater than 3.5.
+
+
+Version 3.5.0
+ADDED:
+        - Minor bug fix
+    - Recipe builder added
+        - Ingredients stock management added
+Version 3.3.2
+ADDED:
+        - Fix items variation issues
+    - minor bug fix
+Version 3.3.0
+ADDED:
+        - Tax & vat issues fix
+    - minor bug fix
+Version 3.2.0
+ADDED:
+        - sharable link added
+    - minor bug fix
+Version 3.0.0
+ADDED:
+    - Credit book
+    - Language translatable issues fix
+    - Pos printable issues fix
+    - minor bug fix
+Version 2.9.0
+ADDED:
+- Flutterwave payment gateway
+-Template one hero slider
+- minor bug fix
+Version 2.8.0
+ADDED:
+- template section disable option
+- minor bug fix
+Version 2.7.0
+ADDED:
+- update installation process
+- minor bug fix
+Version 2.6.0
+ADDED:
+- Kitchen order sortable option
+- laravel 9
+- minor bug fix
+Version 2.5.0
+ADDED:
+- website disable option
+- google Recaptcha
+- minor bug fix
+Version 2.4.0
+ADDED:
+- Separate variation price
+- minor bug fix
+Version 2.3.0
+ADDED:
+- update translatable text and bug fix
+- Demo product added
+- improve performance
+Version 2.2.0
+FIXED:
+- Translatable language bug fix
+- Translatable text extended
+-  Separate product variation price with a base price
+Version 2.2.0
+ADDED:
+- Stripe payment gateway
+- Registration authentication with Twilio
+- Fix minor bugs
+Version 2.1.0
+ADDED:
+- POS search option
+- Daily / Monthly / Item / Group / Branch / POS / Online report 
+- Branch wise kitchen panel
+Version 2.0.0
+ADDED:
+- New template
+- Minor bug fix
+Version 1.7.4
+ADDED:
+- Tax system added
+- PayPal integration
+Version 1.7.1
+FIXED:
+- Responsive UI
+- Display condition based deliverymen
+- Branch notify alert added when work period is closed
+Version 1.7.0
+New features:
+- Stock Management
+- Multiple Vat System (SGST+CGST)
+- Kitchen Dashboard for online orders
+Version 1.6.0
+New features:
+- Delivery man Dashboard
+- Order assigning by POS user
+- Alarm in Delivery dashboard on new order assigned
+Improvement:
+- Countdown pop up issue fixed
+Version 1.5.0
+New features frontend:
+- Restaurant website
+- Online order
+- Online Customer Registration
+- Customer Login and Profile
+-
+New features backend:
+- New online order Ring notification in POS
+- Online Customer Listing
+- Online Order Print bill
+- Accept/Cancel online orders
+Version 1.4.1
+Improvement:
+- Print bill copy, ""undefined"" text in the bill (version 1.4.0) fixed
+Version 1.4.0
+New Features:
+- 2nd POS SCREEN Functionality for settle
+- POS screen selection from the admin dashboard
+- Department tag commission system (e.g. dynein/takeaway commission)
+- Service charge and discount in both % or Flat money supported, admin decides which one to apply
+- Order Token RESET after each Work Period ENDS
+- Print bill copy for customers after order is Settled, from order history and settled orders page
+Version 1.2.1
+Improvement:
+- Print bill, branch address shown on the bill
+- Property price multiplied by item qty in Item wise report when more than 1 qty ordered of the same food.
+Version 1.2.0
+New Features:
+- Department Tag wise report
+- Service Charge wise report
+- Discount wise report
+Improvement:
+- POS page mobile screen, work period selection info in the center
+Version 1.0.1
+- login bug fixed on various servers 
+- import sql issue solved for different servers
+- php version 7.4 required, unlimited loading while installation issue fixed
+Version: 1.0.0
+- Initial release",39, 277 ,https://codecanyon.net/item/khadyo-restaurant-software/29878013
+20,Eatggy - Multi Restaurant Food Ordering & Delivery Application | Restaurant Management,https://codecanyon.img.customer.envatousercontent.com/files/482791390/Inline%20Preview.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=ff37d8ec7ae64f44a1ad52ecfc3d5c63,"What’s included:
+- Customer Android App Source Code
+- Restaurant Owner App Source Code
+- Delivery App Source Code
+- Admin Panel PHP Script Source Code
+- Restaurant Panel PHP Script Source Code
+- Database file & Installation Documentation
+Customer App Restaurant Owner App Delivery Boy App
+Admin Panel Demo Access Click Here
+Admin 
+User or email: admin
+Password: admin@123
+
+Restaurant
+User or email: cscodetech@gmail.com
+Password: 12345678
+Customer App Demo Access
+ID 1:
+User or email: 7276465975
+Password: cscodetech@123
+Restaurant Owner App Demo Access
+ID 1:
+User or email: cscodetech@gmail.com
+Password: 12345678
+Delivery Boy App Demo Access
+User or email: ramukaka@gmail.com
+Password: ramukaka@123
+
+
+Eatggy – Admin Features:
+Admin can see the Total Banners , Total Category , Total Restaurant , Total Delivery Boy , Total Coupons , Total Faq’s , Total New Order , Total Completed Order , Total Cancelled Order , Total Active Payment Gateway , Total Sales , Your Total Earning(Restaurant) , Your Total Earning(Delivery Boy) , Total Vendor Payout , Total Delivery Boy Payout , Total Users , Total Pages
+Admin can create unlimited banners
+Admin can create unlimited restaurant category with image
+Admin can add unlimited restaurant with all mention details
+Admin can create unlimited delivery Boy
+Admin can create unlimited country Code
+Admin can create unlimited coupon Code with multi restaurant assign
+Admin can create unlimited pages like Privacy Policy, Terms & Conditions, Contact Us etc
+Admin can create unlimited faq’s
+Admin can check New Order List, Cancelled Order List & Completed Order List where order can accept or reject and Assign to delivery boy with print
+Admin can check Customer Information & Details
+Admin can manage edit or change the status or payment method dynamically
+Admin can manage Restaurant Payout List
+Admin can check Restaurant Wise Earning Report
+Admin can check Delivery Boy Wise Earning Report
+Admin can change Setting for Payment Method: Cash on Delivery (COD), PayPal, Razorpay, Stripe, PayStack, FlutterWave, Paytm, SenangPay
+Admin can change Setting for Customer & Delivery boy Notification OneSignal API and Firebase OTP verification API
+Admin can change Setting for the username and password for admin panel
+Admin can change Setting for currency($,₹,€,£,¥ etc)
+Admin can change Setting for Time zone
+Admin can change Setting for Signup Credit & Refer Credit
+Admin can change Setting for logo, favicon, website title for admin panel
+Admin can change Setting for Wallet Name
+Admin can change Setting for Minimum Payout for Store & Delivery Boy
+Admin can change Setting for Development Mode
+Admin can change Setting for Tax Information Enable or Disable
+Admin can change Setting for Delivery Boy Tip Information Enable or Disable and Tip amount add option
+Fast, Optimized and Powerful admin
+Beautiful UI
+High Quality
+Easy configuration
+More coming soon…
+Eatggy – Restaurant Features:
+Restaurant can check the Overall Rating , Make A Restaurant Open Or Close ? , Total Category , Total Menu Item , Total Add On Item , Total Add On Category , Total New Order , Total Completed Order , Total Cancelled Order , Total Sales
+Restaurant can create menu Category
+Restaurant can create menu item with Menu Item Name, Menu Item Image, Menu Item Status, Price, Is Veg?, Is Customize?, Is Egg?, Item Description
+Restaurant can create addon category with Add On Category Name, Add On Category Type(Single/Multiple), Add On Main Type(Quantity, Other), Add On Limit, Add On Required?, Add On Category Status
+Restaurant can create addon item with Add On Category, Add On Item Name, Add On Price, Add On Item Status
+Restaurant can check New Order List, Cancelled Order List & Completed Order List where order can accept or reject
+Restaurant can check Earning Report
+Restaurant can check Payout Request & Payout List
+Eatggy – Customer App Features
+Easy to Sign up & Sign in with Mobile Number Verification
+Sign in with Mobile number
+App Home screen list of Nearby Restaurant
+Product Details with Images and Product Description
+Product with customizable option
+Easy to Add to cart and Orders
+User friendly Payment Gateway (Cash on Delivery (COD), PayPal, Razorpay, Stripe, PayStack, FlutterWave, Paytm, SenangPay)
+User can add / update / delete Multiple Address
+User can provide delivery boy tips and Apply coupons code
+User can placed the order then they can cancel the order with in 30 second.
+User can track the delivery boy path
+User can rate the Restaurant order and Delivery boy service
+User can do favorites Restaurant
+User can check all related Restaurant offers
+User can update profile anytime
+User can check all order details info
+User can Use Coupons code
+User can Use Wallet or Refill Wallet Balance
+User can Refer & Earn to other Users
+User can check all dynamic pages like Privacy Policy, About us, Contact us, Terms & Condition page
+User can change the Forget Password with Mobile OTP verification
+User received notification once the order Received, Accepted, Process, On-route & Delivered
+Easy and Understand Design
+Eatggy – Restaurant Owner App Features
+Restaurant Owner login with Email
+Restaurant Owner check all statics information like Total Category , Total Menu Item , Total Add On Item , Total Add On Category , Total New Order , Total Completed Order , Total Cancelled Order , Total Sales, Overall Rating etc
+Restaurant Owner check all the New order / cancel order / Completed order list and details
+Restaurant Owner check all product and status
+Restaurant Owner take decision and accept or reject the order
+Restaurant Owner contact the delivery boy with mobile number dial-up
+Restaurant Owner check all the notification
+Restaurant Owner check the profile details anytime
+Restaurant Owner change status with active or inactive
+Restaurant Owner received notification once the new orders placed by customer
+Restaurant Owner accept/delivered the new order user get notification
+User friendly and Unique UI
+Eatggy – Delivery Boy Features
+Delivery boy can login with Email
+Delivery boy can check all the Normal Pending order / Running order / Completed order list and details
+Delivery boy can Track the path for Restaurant & User
+Delivery boy can accept or reject the order
+Delivery boy can contact the order person with mobile number dial-up
+Delivery boy can check all the notification
+Delivery boy can check profile and update the details anytime
+Delivery boy can change status with active or inactive
+Delivery boy can check the Total Delivered, Gross sales, Reject order, Order received, Tips, Cash amount
+Delivery boy received notification once the admin assign the new orders
+Delivery boy accept/delivered the order user get notification
+User friendly and Unique UI
+Faced a problem? Need assistance with the product? No worries – our customer support team is always ready to help you.
+Support requests are being processed on business days from 10:00 to 18:00 (GMT +05.30) within 24h to 48h.
+We suggest, while our team reviews your support request, please read the documentation that comes in the zip file of Codecanyon. You can download it from Codecanyon: https://codecanyon.net/downloads
+We are in GMT+5:30 time zone. We address all the support queries 5 days weekly (Saturday & Sunday off).
+Have pre-sales questions or concerns, please write to us via our website contact page
+If you like our product and support then please drop a rate and write a review at: https://codecanyon.net/downloads
+Disclaimer
+Required subdomain configuration for the setup panel
+Refund Policy
+We don’t offer a refund. (If the item is downloaded)
+Please read the description and compatibility content thoroughly before purchasing as we don’t offer a refund if you buy it by mistake.
+Be Aware : We do not sell any of our items outside the Envato market
+Please Note: Live preview images cannot be used directly in client’s live project. Those are used for preview purpose only.
+Version 1.5 – 25 May 23
+- Restaurant-wise POS Feature [ADDED]
+- POS Customer management [ADDED]
+- POS Order Management [ADDED]
+- Restaurant can not see other restaurant access [Fixed]
+- Home Page App UI Change [ADDED]
+- Restaurant List UI Change [ADDED] 
+- Restaurant Detail Page UI Change [ADDED]
+- Restaurant Addon UI Change [ADDED]
+- Full Cart Design Change [ADDED]
+- Wallet and Add Wallet UI Change [ADDED]
+- Search for restaurant and product not founded issue resolved [Fixed]
+- Latest SDK Updated [Added]
+- Minor Bugs and More Code Optimization [Added]
+Version 1.4 – 14 Feb 23
+- RTL supported
+- Multi-Language Supported
+- UI improvement
+- Few code enhancement  
+Version 1.3 – 11 Feb 22
+- Browse menu bottom for restaurant items 
+- Notice Board 
+- Push Notification: Customer, Restaurant. Delivery Boy
+- OTP Validation for Delivery pickup when restaurant order ready
+- Bug fixing and improvement 
+Version 1.2 – 14 Sep 21
+   
+- Customize Size Wise Addon
+- Popular Restaurant
+- Distance wise & Fixed Delivery Charge
+- Restaurant users Review & Rating
+- Restaurant Photo Gallery
+- Dining with Open/Close, Call & Navigation
+- Home Banner Clickable
+- Restaurant UI Change
+- Home UI Change
+- Image grayscale
+- Map Crashed issue
+Version 1.1 – 20 August 21
+- Restaurant Owner App
+- Restaurant Owner login with Email
+- Restaurant Owner check all statics information like  Total Category , Total Menu Item , Total Add On Item , Total Add On Category , Total New Order , Total , Total Cancelled Order , Total Sales, Overall Rating etc
+- Restaurant Owner check all the New order / cancel order / Completed order list and details
+- Restaurant Owner check all product and status
+- Restaurant Owner take decision and accept or reject the order
+- Restaurant Owner contact the delivery boy with mobile number dial-up
+- Restaurant Owner check all the notification
+- Restaurant Owner check the profile details anytime
+- Restaurant Owner change status with active or inactive
+- Restaurant Owner received notification once the new orders placed by customer
+- Restaurant Owner accept/delivered the new order user get notification
+- User friendly and Unique UI
+- Starting Location crashed issue fix
+Version 1.0 – 18 August 21
+    - Initial Release",49, 117 ,https://codecanyon.net/item/eatggy-multirestaurant-food-grocery-pharmacy-ordering-delivery-application-food-delivery-ap/33511975
+21,Restora - Restaurant Management System + Restaurant E-commerce,https://codecanyon.img.customer.envatousercontent.com/files/290440607/banner.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=fd6c0a52f1264e818b3165d8c3c352ec,"Restora
+Restora is an online based Restaurant Management System that is fit for any type of Restaurant, Food shop, Catering, E-commerce and any type of restaurant related business. Restora created with materialize design that works perfectly on any device.
+
+Restora have different panels for Admin, Manager & Customers. Customers can check their order history, Manager can process the order Pending to Complete. And admin can check all the business updates and control everything.
+
+Demo URL
+E-Commerce
+View Demo
+Restaurant E-Commerce
+Fully Responsive E-Commerce Website
+Advanced Cart System
+User Account
+Purchase History
+Customizable from Admin
+
+
+Restaurant Management System
+Customer Management
+Sales Records
+Website Manage Options
+Food Item/Menu Management
+Order Management
+
+
+Free Installation Support
+Restora provide a free installation support. If you purchase it and face any problem to install in your server. Just contact on this email. Will reply you as soon as possible.
+Support Email: pukutech@gmail.com
+
+Dependencies
+Laravel
+Vue JS
+Chart Js
+Moment Js
+Material Icons",39, 38 ,https://codecanyon.net/item/restora-complete-restaurant-solution/25751449
+22,FoodTiger - Food delivery - Multiple Restaurants,https://codecanyon.img.customer.envatousercontent.com/files/488254241/FoodTigerwebcover.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=e3df5814d057e368ab94763bf453f610,"Change log – Docs – Update video
+- Files Included: Full Laravel Source code of FoodTiger – Food delivery – Multiple Restaurants
+- This is Exclusive Product License from Envato.
+- Installation video here
+- Client Mobile App | Driver Mobile App | Vendor Mobile App – can be purchased from your installed project
+- IMPORTANT: The Client, Driver and Vendor app are sold separately and they are not part of the project
+
+
+FoodTiger is a new and powerful PHP script based on Laravel 8. Start your own food delivery business in minutes.
+DEMO
+Site ( Refreshes every hour )
+https://foodtiger.site/
+
+The demo credentials are displayed on the demo site
+Administrator
+You as administrator will be able to register restaurants, add drivers and assign orders to drivers. View powerful analytics for how much orders has been made.
+Restaurant owner
+Will receive orders for their restaurant both by mail and in the system. They will be able to accept/reject the order. Also, there will be able to manage their restaurant, categories, items, etc.. Each restaurant gets a subdomain.
+Drivers
+Drivers are your employees. You can register them in the system. And soon as order is accepted from the restaurant, you will be able to assign to them. Drivers will deliver the order and change the status to delivered. Soon, mobile app for them.
+Clients
+Your clients are the ones who make orders to the restaurant. They can register, put their address and make an order from the restaurant they like.
+
+
+Customer mobile app for iPhone and Android
+Driver Companion app for iPhone and Android
+Install instructions
+This is a Laravel project. You can install it on VPS or on shared hosting. Instructions for shared hosting. https://mobidonia.gitbook.io/mresto/docs/installation",89, 878 ,https://codecanyon.net/item/foodtiger-food-delivery-multiple-restaurants/26296970
+23,Karenderia Mobile App Multi Restaurant,https://codecanyon.img.customer.envatousercontent.com/files/486213081/Karenderia%20Mobile%20App%20Multi%20Restaurant%20Banner.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=5652d8fae272abde9978454979ec3406,"Admin Panel    Merchant Panel    Android demo       
+Notice : To test ordering please use Los angeles as address
+– Version: 1.0.6
+– Last update: January 31, 2024
+Update Instructions
+During update your mobile app vue files, please run the npm install again both in main folder and src-capacitor folder
+Requirements
+NodeJS 16+
+Xcode 14.1+ (for iOS)
+Android Studio Flamingo 2022.2.1 or Giraffe or newer version (for Android)
+
+Steps for updating
+1. Update first your quasar cli by executing this command
+quasar upgrade -i
+2. use the latest mobile Files
+3. execute npm install in main folder and src-capacitor folder
+Important : mobile app requires Karenderia Multiple Restaurant version 1.1.4
+Notice to buyer : this is addon for Karenderia Multiple Restaurant System, you need to purchase KMRS for this pwa and android/iOS app to work.
+Join our community at https://community.bastisapp.com/
+– Video tutorials
+Build your app
+https://youtu.be/9-_CkcVEVdU
+Configure firebase project
+https://youtu.be/IvQGqTJFH4M
+Create keystore
+https://youtu.be/_5SoV6dsMDo
+Configure google login
+https://youtu.be/rAzaZz70z3U
+Configure facebook login
+https://youtu.be/65j7D0Oc2sA
+Change android package ID and package name
+https://youtu.be/2owVmp2EX_w
+Version 1.0.6 – 31 January 2024
+update - add view cart in favorites page
+update - add options for menu page food category as slider
+fixed - favorites items
+fixed - pay on delivery payment
+fixed - issue if added ingredients and delete ingredients error will occur
+fixed - saving address in ios
+fixed - cuisine list showing even is not active in front end 
+fixed - free delivery in first order
+fixed - PDF to support arabic
+add - drap map
+new - make size,cooking reference, ingredients and addons as checkbox
+new - notification if new version is available in google play or apple store
+new - make banner scroll
+new - logout account if status is inactive or password change
+new - add default avatar for user,food and merchant 
+new - Customer digital wallet 
+new - top-up digital wallet 
+new - payment using digital wallets 
+new - real time live chat 
+new - pay on delivery no selection from merchant panel
+new - add reviews in order list
+new - add campaign for merchant to join loyalty points
+new - options to disabled include utensil
+new - points thresholds 
+new - Customer digital wallet
+new - top-up digital wallet
+new - payment using digital wallets
+new - refund to digital wallets
+new - real time live chat - set firebase config in src/boot/FirebaseChat.js  tutorial  https://youtu.be/Y1T2hzt__vc?si=iCcGJWvS0g7kZi7H
+fixed - some minor issue
+
+Version 1.0.5 – 29 October 2023
+fixed - checking of close store
+fixed - issue with transactions type always delivery
+fixed - if date/time is already passed
+update - make home banner clickable
+update - push notification
+new - add selection of booking tables during checkout if transaction type is dinein
+fixed - some minor issue
+
+Version 1.0.4 – 25 August 2023
+new - update API level 33 (android)
+new -  select language when first time opening the app
+new - Mapbox
+new - Multi currency addons
+new - Loyalty points addon
+new - promo code add transation type
+new - promo code add visible 
+new - added new payment pay on delivery or pay by card type
+new - add allergens to food item
+new - deposit link when viewing order details
+new - add item gallery
+new - table booking user must login
+new - manage table booking under customer profile
+update - addon min and maximum selection
+update - commission/merchant earnings computations
+fixed - track order issue with estimation
+fixed - some minor issue
+
+Version 1.0.3 – 22 June 2023
+update - compatible with kmrs version 1.0.8
+add - select language when first time opening the app
+add - mapbox
+fixed - track order issue with estimation
+update - addon min and maximum selection
+update - commission/merchant earnings computations
+
+Version 1.0.2 – 03 April 2023
+fixed - customer registration issue with mobile prefix
+fixed - social login enabled/disabled
+new - RTL support
+new - Translation
+
+Version 1.0.1 – 05 November 2022
+- fixed login and signup cause by captcha
+- fixed missing files for payment api
+- fixed search not showing results due to promo
+
+Version 1.0 – 31 October 2022
+- Initial Release.",49, 299 ,https://codecanyon.net/item/karenderia-mobile-app-multi-restaurant/40502711
+24,eRestro Multi Restaurant Web - Online Multi-Vendor & Restaurant Food Ordering Web App,https://codecanyon.img.customer.envatousercontent.com/files/482793426/erestro2.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=dcfb0a7c97350700cdba20491d533aaf,"Change Log: – 03 May 2024
+- Version v1.2.5
++ Added SMS Gateway for website authentication.
++ Integrated promo codes into the cart section.
++ Enabled Cityvise offers on the website.
++ Uploaded Cityvise slider images.
++ Resolved various UI bugs.
++ Other UI improvements and bug fixes.
+eRestro Multi Restaurant Web – Online Multi-Vendor & Restaurant Food Ordering Web App
+( Note: For the demo data Search the city as “Bhuj” in the location and choose the “Bhuj, Gujarat. India” option. )
+Popular Payment Options:
+Give your customers multiple payment options to choose like Cash on Delivery, Razorpay, Flutterwave, and Stripe payment options to name a few.
+Elegant Homepage:
+A home page that beautifully presents a list of food categories and restaurants based on the preferred city of the visitor.
+Mobile OTP Authentication system:
+A mobile number authentication system that allows your customers to log in or register with the help One-Time-Password by Firebase Authentication system.
+Orders
+Allow your customers to check their current, upcoming, or past order history.
+Explore Restaurants and Food items:
+Let your customers choose their desired city or area and let them explore restaurants and food items nearby their location.
+Offline & Online Cart:
+Customers can add their favorite food items to the cart both as a guest and as logged-in users. This way eRestro allows your customers to synchronize their cart with the app as well.
+Favorite System:
+Allow your customers to manage their favorite lists like Restaurants and Food items to quickly find it out the next time when they need to order food.
+Multiple Languages: eRestro provides a Multilanguage option so that your customers can easily explore the website using their desired language.
+Multiple Addresses:
+Let your customers manage multiple addresses like home and office addresses and let them choose among multiple addresses easily while checkout.
+Multiple Categories
+Unlimited Categories – Easily categorize food items with the help of available categories.
+Changelog for updates – What’s new?
+Version 1.2.5
+( updated on 03-May-2024 )
++ Added SMS Gateway for website authentication.
++ Integrated promo codes into the cart section.
++ Enabled Cityvise offers on the website.
++ Uploaded Cityvise slider images.
++ Resolved various UI bugs.
++ Other UI improvements and bug fixes.
+Version 1.2.4
+( updated on 27-Mar-2024 )
++ Incorporated missing language labels throughout the website, enhancing localization and clarity for users.
++ Implemented automatic logout if the login token expires, preventing unauthorized access.
++ Adjusted the web logo to a meaningful size automatically, optimizing visual appearance.
++ Enhanced accessibility for adding products on mobile screens, improving user experience and convenience.
++ Resolved issues within the cart section to ensure smooth and error-free shopping experiences.
++ Implemented user interface improvements in the account section for better usability and aesthetics.
++ Addressed bugs related to balance in the wallet section, ensuring accurate transaction processing and account management.
++ Other UI improvements and bug fixes.
+Version 1.2.3
+( updated on 14-Feb-2024 )
++ Added missing language labels
++ Added filters in order history.
++ Fixed bugs in the cart section. 
++ Other UI improvements and bug fixes.
+Version 1.2.2
+( updated on 29-Nov-2023 )
++ Added Dynamic featured sections
++ Optimised the API calls and assets. 
++ Other UI improvements and bug fixes.
+Version 1.2.1
+( updated on 20-Nov-2023 )
++ Added Paypal payment gateway
++ Added wallet option on the checkout page. 
++ Other improvements and bug fixes.
+Version 1.2
++ Added Paystack payment gateway
++ Made cities in the FAQs section clickable to change the city. 
++ Added Skeleton Placeholders on the Cart page. 
++ Added missing language labels.
++ Fixed issues in maps and places search API.
++ Fixed bugs in the stripe payment method
++ Fixed mobile view Add to Cart button.
++ Upgraded dependencies to avoid the forced installation of packages.
++ Other improvements and bug fixes.
+Version 1.1
++ Implemented Redux for the System settings and improved overall app settings data hydration process.
++ Resolved UI responsiveness issues and improved the mobile version of the site.
++ Fixed Closed Restaurants issue. 
++ Fixed Add to Cart issue.
++ Other improvements and bug fixes.",19, 67 ,https://codecanyon.net/item/erestro-multi-restaurant-web-online-multivendor-restaurant-food-ordering-web-app/40208571
+25,OpenTable Restaurant Reservation Forms for Elementor,https://codecanyon.img.customer.envatousercontent.com/files/487125943/01_Main_Preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=adca0a08ee99c6173d0264a723c47f2a,"OpenTable Restaurant Reservation Forms is an Elementor forms builder to increase revenue by adding all sorts of search forms on their websites and earning money from the conversions.
+If you own a restaurant that is already listed on OpenTable, then this plugin is perfect for you.
+Key Features
+Made for OpenTable Restaurant Owners.
+Search by Restaurant Link or Restaurant ID.
+Made for Elementor Page Builder.
+Compatible with any theme.
+Easy Installation & Setup.
+Easy to use options.
+Fully translatable into any language.
+Dedicated help team;
+Well Documented: Online Documentation
+...more features are coming soon;
+How it Works
+Install the plugin on your Elementor-based website
+To use our demo pages, import the content.xml from the demo-data directory (download package).
+Start creating Search forms on any Elementor-based page.
+It can also be used anywhere (as a shortcode)
+Share your page(s) across your social media profiles or boost via ads.
+Credits
+This Plugin uses demo images from Envato Elements. You will need to license these images from Envato Elements to use them on your website, or you can substitute them with your own.
+https://elements.envato.com/collections/NV86Z9BTJH",24, 2 ,https://codecanyon.net/item/opentable-restaurant-reservation-forms-for-elementor/50696603
+26,WooCommerce Food - Restaurant Menu & Food ordering,https://codecanyon.img.customer.envatousercontent.com/files/494728540/screen-n.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=1be7eb0f50a0bbf5a3d65b0eae16455b,"#1 Best selling Food ordering WordPress plugin
+Latest Version 3.2.7 New update! view changelog
+Compatible with WordPress 6.x & WooCommerce 8.x
+Our Customer’s Sites Showcases: View Details
+New! Compatible with High-Performance Order Storage
+New! Show upsell after adding an item to the cart: View Demo
+New! Quantity field for checkbox radio button: View Demo
+New! Option image for checkbox radio button: View Demo
+New! Modal food details modern style: View Demo
+New! Add tip/donation on checkout
+New! Show hide Extra option by conditional logic: View Demo
+New! Min max quantity: View Demo
+New! Shipping by postal, zip codes: View Demo
+New! Extra option by variation: View Demo
+New! Menu by date and times: View Demo
+New! Popup opening and closing time info: View Demo
+New! filter with icon: View Demo
+Ver 1.4 – Add global option and more 2 Extra Options: text and text area and add popup opening and closing time info
+Ver 1.3 – Add Food with Extra Options
+If you own a restaurant, café or food service business, WooCommerce Food is a must-have plugin. Designed to make ordering menu items seamless and hassle-free, WooCommerce Food is the simplest way for your business to display food items and for your customers to order. With the intelligent WooCommerce plugin, you can use a lot of payment gateways and manage everything from showcasing your menu to receiving and processing orders all from one handy place. For your customers this means a straightforward way to place an order and the very best user experience, ensuring they’ll be back – again and again.
+Demo:
+Username: demo Password: demo@123
+Frontend user login and register: https://exthemes.net/woocommerce-food/my-account/
+Admin Dashboard url: https://exthemes.net/woocommerce-food/wp-admin/
+Features list
+10+ Food Styles support
+Online Food ordering and manager via pro system of WooCommerce
+Food with extra options, you can create food with multi option types: Select box, radio button, checkbox, textarea, text, quantity
+Min/max option required for checkbox field
+Extra options by variation (create different option for each of variation)
+Extra options by conditional logic (show hide option by conditional logic)
+Copy/clone extra option – fast and easy way to clone/copy option
+Min/max quantity for each food or for each variation (not quantity of each extra checkbox radio option) .
+Fully responsive and mobile ready.
+Display menu via shortcode anywhere.
+Support with many columns(2, 3, 4, 5)
+Display Food menu with Grid, List, Table, Carousel(Slider view)
+Admin create Food and manage order easily via WooCommerce
+Order method: Delivery or Pickup or Dine-in
+Shipping radius: Limit shipping radius with google map API
+Shipping postcodes: Limit shipping with postal, zip code instead of radius
+Shipping Delivery fee, delivery fee by km or postal, zip codes or time slot
+Minimum order amount required to free shipping
+Email to admin and customer after order
+Food by location, You can set different food for each store location
+Food by order method, You can set different food for each order method: Delivery, Takeaway, Dine-in
+Open closing time
+Open closing time by location
+Enable/disable location for each order method
+Shipping fee for each location
+Minimum order amount required for each store location
+Print order invoice
+Email recipients by location You can set different email recipients for each location
+Ajax load more, pagination, popup food info
+Minimum amount, minimum amount by km, minimum amount for each order methods
+Delivery discount or Surcharge
+Dine in discount or Surcharge
+Takeaway discount or Surcharge
+Enable/disable payments by Order method (Delivery/Takeaway/Dine in)
+Order Calendar You can show Order delivery/takeaway/dine in on calendar
+ICal export You can export ICal file of Order delivery/takeaway/dine or import it to Google calendar
+Enable/disable date and time slot field in order
+Different time slot for each day of week
+Different date time for order methods (delivery, takeaway, dine-in)
+Different time slot for each location
+Maximum number of Order per time slot in order
+Disable order food before X minutes or X days time in order ( user need order food before X minutes or X days)
+Unlimited Color. You can set color for all or each food
+Filter by category – You can show filter by category
+Auto address complete, auto complete by special country with google map API
+Custom label color or icon like spicy, allergens….
+Opening and closing time for each day of week
+Opening and closing time from date to date
+Show Opening and closing time information in popup
+Multiple Payment mode support
+Support Paypal, Stripe and a lot of payments gateways with addon
+Admin filter order by status, location, order method, delivery time
+User page with register/login/history booking
+Coupon code
+Coupon code by order method
+Live notification with default WooComemrce mobile app
+Support display date, time and order method on default WooComemrce mobile app
+RTL mode support
+Custom food info
+Images gallery
+Unlimited customize with font, color
+WPBakery Page Builder support
+Easy configuration
+Automatically order printing with Star CloudPRNT (only work with star printer, Supported printer models are: Star TSP650II with HIX interface, Star mC-Print3, Star mC-Print2, Star TSP700II with HIX interface, Star TSP800II with HIX interface (currently limited to 80mm paper width support), Star SP700 with HIX interface)
+Automatically order printing with other printers If you don’t use star printer, you can use print node with this premium addon of WooCommerce to auto print order, or you can use BizPrint
+Compatible with Product Timer, you can enable food/product by date and time
+Compatible with Variations Radio Buttons, you can show variation as radio or grid view instead of select box
+And much more … Please check Demo page
+This is an add-on for WooCommerce, and it cannot work without WooCommerce.
+The demo images are not included in the purchase package.
+All features on the demo page do not require any paid extra add-ons.
+VER 2.9 NEW! ORDER CALENDAR
+Support PDF Invoice
+Some customer’s sites
+https://mammamiaburger.com/
+https://papsolysh.nc/commande-en-ligne/
+https://maxgriller.be
+https://pominki-moscow.ru/menyu/
+https://kebabdonerhouse.ro/
+https://shop.barbaraskueche.de/
+https://thecurryculture.sg/store/
+https://salentopizza.ro/
+https://dfnigeriafoodtruck.com/menu/
+https://thecurryculture.sg/store/
+https://restaurant-fuchsrain.de/
+https://www.beyzaderestaurant.nl/eten-bestellen/
+https://harueatery.co.nz/our-menu/
+https://donramonrestaurant.com/order-online/
+https://batumi-berlin.de/speisekarte-batumi-berlin/
+https://www.aibozzi.it/
+https://zarzalatinrestaurants.com/order-online/
+https://www.lockdown-pizza.co.uk/
+https://toroburger.de/
+https://www.croqbassin.fr/commander-en-ligne/
+https://www.pizza-hassloch.com/
+https://ponoti.com/dostavka/
+https://ustadoner.nl/menukaart/
+https://afghanfoodcatering.com/
+https://www.marieandtwannettes.com/order/
+https://www.978cafe.com/menu/
+https://restaurant-fuchsrain.de/
+Using Avada theme http://lincontro.qa/menu/
+https://www.ilbandito.nl/bestellen/
+https://stefanocarni.it/
+https://bagelin.com/shop/
+https://calibombs.com/menu/
+https://www.qbio.net/
+https://fultonburger.com/order-online/
+https://villagecafe.uk/order-now/
+https://daalswinterswijk.nl/
+https://boardyum.com/
+https://phodaubovietnamese.com/order-takeout-online/
+https://moonsushi.co.nz/
+https://ciao-ciao.nl/
+https://originalempanadafactory.com/order/
+https://carnisseriagual.com/producte-fresc-i-elaborat/
+https://www.issylasie.com/commandez-en-ligne/
+https://greatwhitefishchicken.com/
+https://theriverroadkitchen.co.nz/takeaway-pizza/
+https://www.brookfieldfarm.uk/
+https://brunchandbar.de/lieferservice-brunch-and-bar/
+https://nasiktiffins.com/shop/
+https://www.pizzadellacasa.ch/
+https://www.eurekacafe.co.uk/order/
+Visit our full changelog page
+---------------------------------------------------------------------------------------
+Version 2.3.2 - 17/02/2021
+---------------------------------------------------------------------------------------
+- Fix error when active purchase code 
+- Fix live total when empty price 
+- Fix css conflict 
+- Fix some other minor bugs
+---------------------------------------------------------------------------------------
+Version 2.3.1 - 07/02/2021
+---------------------------------------------------------------------------------------
+- Add time slot by location 
+- Add option to Disable filter by location 
+- Change name of folder 
+- Disable excerpt when enter: 0
+- Fix get data from google map does not work in some server 
+- Fix some other minor bugs
+---------------------------------------------------------------------------------------
+Version 2.3 - 27/01/2021
+---------------------------------------------------------------------------------------
+- Add Drag drop order extra option 
+- Add admin filter by delivery date or location and delivery type 
+- Add custom label icon 
+- Add Dine in option 
+- Add min order amount required by km
+- Add Free shipping when total reached X value by km 
+- Add option to change quantity of food in Side cart 
+- Disable modal option 
+- Fix max order when disable date delivery 
+- Remove some notice 
+- Remove wrong characters in Woo APP 
+- Fix geo button does not work when set restrict API 
+- Fix extra option with ""Order again"" button 
+- Add option to disable default address fields when order method is takeaway or dine in
+---------------------------------------------------------------------------------------
+Version 2.2 - 11/12/2020
+---------------------------------------------------------------------------------------
+-  Add auto complete address by special country only 
+- Show rating 
+- Add default option for checkbox select radio 
+- Multi google API to allow restrict API 
+- Add different time slot for takeaway and delivery 
+- Add different date setting for takeaway 
+- Add Shipping fee by km 
+- Add next previous for image gallery
+- Fix some minor bug
+---------------------------------------------------------------------------------------
+Version 2.1.2 - 31/10/2020
+---------------------------------------------------------------------------------------
+- Improve performance 
+- Fix conflict with multi checkout steps addon 
+- Fix the problem with disable book before x minutes
+---------------------------------------------------------------------------------------
+Version 2.1.1 - 20/10/2020
+---------------------------------------------------------------------------------------
+- Fix delivery time does not work on safari
+---------------------------------------------------------------------------------------
+Version 2.1 - 17/10/2020
+---------------------------------------------------------------------------------------
+- add option to set Different time delivery for each day of week 
+- Add extra Textbox quantity option 
+- Open closing time by location 
+- add shipping fee for each location 
+- Add option to exclude global option for each food 
+- Add option to include global option for each food 
+- Fix some minor bugs
+---------------------------------------------------------------------------------------
+Version 2.0.1 - 25/09/2020
+---------------------------------------------------------------------------------------
+- Add setting maximum checkbox option 
+- Fix conflict code with checkout editor addon 
+- Fix some notice bug
+---------------------------------------------------------------------------------------
+Version 2.0 - 15/09/2020
+---------------------------------------------------------------------------------------
+- Add shipping method: delivery and pickup 
+- Add limit shipping radius for all or each location 
+- Add fee shipping for delivery 
+- Add minimum order amount to free shipping 
+- Add minimum order amount for each location 
+- Support print pdf invoice 
+- Support show food information in default product page 
+- Fix some minor bug
+---------------------------------------------------------------------------------------
+Version 1.5.1 - 14/08/2020
+---------------------------------------------------------------------------------------
+- Add live update total price
+- Improve popup to fix conflict with some themes
+---------------------------------------------------------------------------------------
+Version 1.5 - 10/08/2020
+---------------------------------------------------------------------------------------
+- Add menu by date feature 
+- Add search form to list, grid and table shortcode 
+- Add show extra option in accordion style
+---------------------------------------------------------------------------------------
+Version 1.4.2 - 21/07/2020
+---------------------------------------------------------------------------------------
+- support WPC Product Bundles for WooCommerce plugin 
+- add menu with icon
+- improve modal food responsive 
+- add option to disable popup after add item to cart 
+- add shortcode parameter to disable ""All"" filter
+- add drap drop repeat option
+- Fix some minor error
+---------------------------------------------------------------------------------------
+Version 1.4.1 - 06/07/2020
+---------------------------------------------------------------------------------------
+- Fix admin js error
+---------------------------------------------------------------------------------------
+Version 1.4 - 06/07/2020
+---------------------------------------------------------------------------------------
+- Add extra global options 
+- Add more extra text and text area option 
+- Add shortcode to display popup Opening and closing time info
+- Add option to enable special date delivery 
+- Add option to set minimum checkbox option 
+- Add filter order by date delivery 
+- Add active license to get update notification 
+- Show description of menu 
+- Change some text  ( Please update your translation file if you update WooCoomerce Foodfrom version < 1.4 to 1.4)
+- Fix some css bug 
+- Fix some notice bug 
+- Fix delivery time when disable date
+---------------------------------------------------------------------------------------
+Version 1.3 - 22/05/2020
+---------------------------------------------------------------------------------------
+- Add Extra Options
+- Add Location field to checkout page + add different Email recipients for each location 
+- Allow Disable date delivery in some special products like opening and closing time
+- Show ""Out of stock"" in style 3, 4 
+- Fix save option does not work in some themes
+---------------------------------------------------------------------------------------
+Version 1.2.2 - 02/05/2020
+---------------------------------------------------------------------------------------
+- Fix gallery images does not work
+---------------------------------------------------------------------------------------
+Version 1.2.1 - 30/04/2020
+---------------------------------------------------------------------------------------
+- Fix cannot close modal after filter 
+- Fix max order not work when disable date delivery
+
+---------------------------------------------------------------------------------------
+Version 1.2 - 29/04/2020
+---------------------------------------------------------------------------------------
+- Advanced time delivery setting with maximum order per each time slot and name of time slot 
+- Add option to allow user only can order food before X minutes or X days 
+- Allow user can purchase special products when your shop is closed. 
+- Auto change variation image when select variation in modal 
+- Fix css conflict with some themes
+---------------------------------------------------------------------------------------
+Version 1.1.2 - 20/03/2020
+---------------------------------------------------------------------------------------
+- Add option to active special filter 
+- Fix some conflict with some themes
+
+---------------------------------------------------------------------------------------
+Version 1.1 - 19/02/2020
+---------------------------------------------------------------------------------------
+- Add advanced open closing setting 
+- Add delivery date and time info to email 
+- Fix some minor bug 
+---------------------------------------------------------------------------------------
+Version 1.0.3 - 05/02/2020
+---------------------------------------------------------------------------------------
+- Fix menu filter not working 
+- Fix some text cannot translate 
+- Fix disable required field not working 
+- Fix cannot import sample data
+---------------------------------------------------------------------------------------
+Version 1.0.2 - 15/01/2020
+---------------------------------------------------------------------------------------
+- Add order food by custom order field 
+- Fix show wrong minimum order amount 
+- Fix show wrong date and time delivery in order 
+- Fix css bug
+---------------------------------------------------------------------------------------
+Version 1.0.1 - 14/01/2020
+---------------------------------------------------------------------------------------
+- Add option to set custom food color
+- Add support images gallery
+---------------------------------------------------------------------------------------
+Version 1.0 - 13/01/2020
+---------------------------------------------------------------------------------------
+- First release",59," 3,504 ",https://codecanyon.net/item/woocommerce-food-restaurant-menu-food-ordering/25457330
+27,AA Restaurant POS,https://codecanyon.img.customer.envatousercontent.com/files/324011756/Inline.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=46b5918e8b787b041facd696c0e7282c,"AA Restaurant POS is a Restaurant Management System with Point of Sale. This software is specifically designed for Restaurant or Fast Food Shop. You can define recepy for each food item with ingredients.It is a modern, simple, and easy-to-use restaurant management system which is developed in C# using SQLite database.
+Demo
+Click here to watch video
+Visual Studio 15 Solution
+AA Restaurant POS Project with source code
+Licensing Tool Project with source code
+Visual Studio Install Project
+Main Features
+Customers
+Customer Sales
+Suppliers
+Supplier Purchases
+Purchase Invoice
+Purchase History
+Sale Invoice
+Sale History
+On Hold Sales
+Stock Management
+Recepy Management
+Multiple Warehouses
+Stock Transfers
+Weekly Purchase Summary
+Weekly Sale Summary
+Overall Summary
+Cheque and Bank
+Cash Register
+Item Requireds
+Staff Management
+User Access Control
+Recepy Ingredients
+Purchase Invoice Settings
+Sale Invoice Settings
+Multiple Sale & Purchase
+invoice designs
+Item Units Settings
+Multiple Date & Time
+Formates
+Sale Reconciliations
+Items Average Cost
+Expense Management
+Manage Users
+Settings
+And much more…
+Runtime Features
+Responsive UI
+The layout of each form is fully responsive and automatically adjust with screen size
+Table Columns customization
+Rename Column
+Right click on any column and you can change the label
+Table layout customization
+Resize, reorder, rename and hide/show the column by right click on table header and select ‘save layout’
+Form text customization
+Double click on any label of any Form and you can change the label text as per your need.
+Sale & Purchase Receipts customization
+You can change receipt logo, Header text, footer text and labels from settings.
+Licensing Project
+The licensing project for this system is also included in the code. You can prevent the project from theft.
+Code Security
+Code security is also included in the project. Compiled executable files automatically obfuscate and prevent from decompilation
+Installer Project
+The installer project is also include in the package. You can create setup or installer package in just one click.
+Language, Tools & Technologies
+C# Winform
+Entity Framework 6
+Linq
+SQLite Database
+DevExpress Winform Controls
+Visual Studio 2015 or above
+What you ‘ll get in this package
+Full C# Project with Source Code
+AA POS Project
+Licensing Project
+Installer Project
+SQLite Database file
+Requirements
+Microsoft.NET Framework 4.5 or above (Required)
+Microsoft Visual Studio 2015 or above (Required)
+Microsoft Visual Studio Project Installer Extension (Required)
+Click here to download from microsoft website
+LogicNP Crypto Obfuscator For .Net (Optional)
+Click here to download
+If you don’t want to use this Obfuscator, follow the instruction provided in the documentation
+Default Username and Password
+User/Password for Login
+Username: master
+Password: master
+Installation/Documentation
+Click here to Download
+What’s new in version 2.1
+Lock customer for credit sale
+Purchase Invoice with reference number
+Multiple store management
+Stock movement in other stores
+Sale price of item
+Fix price of item
+Required items page
+Sale history search by text",30, 28 ,https://codecanyon.net/item/aa-restaurant-pos/30596214
+28,eRestro - Multi Restaurant Flutter App | Food Ordering App with Admin Panel & Restaurant Panel,https://codecanyon.img.customer.envatousercontent.com/files/492675087/22%20eRestro%20App.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=fed74b731795700c9c093def74042423,"Version 1.2.4
+( updated on 02-May-2024 )
++ [Added] - SMS gateway
++ [Improved] - Enhanced the functionality of date-wise offers, providing a more organized and intuitive experience for users to access promotions based on specific dates.
++ [Improved] - Allowing partners to create their own promo codes for the customers
++ [Added] - Global time on/off switch for restaurants,Partners can globally control the operating hours of restaurants
++ [Improved] - Enhanced the system to allow administrators and partners to assign multiple orders to a single rider simultaneously, improving delivery efficiency and order management.
++ [Improved] - Minor bugs have been resolved.
+Version 1.2.3
+( updated on 04-Mar-2024 )
++ [Added] - Implement custom notification functionality to allow for dynamic notification text configuration by the administrator.
++ [Added] - Implemented Phonepe payment gateway.
++ [Added] - Displayed Top categories on Admin dashboard.
++ [Added] - Displayed Top Partners on Admin dashboard.
++ [Added] - Popup notifications for new orders will be received on the admin and partner panel.
++ [Added] - Riders now receive popup notifications on rider panel when an order is confirmed nearby.
++ [improved] - Minor bugs have been resolved.
+Version 1.2.2
+( updated on 18-Nov-2023 )
++ [Update] Customer App - Search Product(Dish) along with Partner(Restaurant)
++ [Improvements] Minor issues have been fixed
+Version 1.2.1
+( updated on 19-June-2023 )
++ [Added] Order again(reOrder) section
++ [Added] Active Order section
++ [Added] Offer section
+-  [Updated] Code Compatible with Latest Flutter Version - 3.10.4
+-  [Fixed] Minor Bugs Fixed
+Version 1.2.0
+( updated on 19-May-2023 )
++ [Added] Midtrans payment getaway
++ [Updated] Code Compatible with Latest Flutter Version - 3.10.0
++ [Fixed] Minor Bugs Fixed
+Version 1.1.9
+( updated on 25-April-2023 )
++ [ Added ] Thermal invoice in partner penal
++ [ Added ] Multi-language support in penal 
++ [ Improvment] UI Improvements 
++ [ Updated] Code Compatible with Latest Flutter Version - 3.7.11
++ [ Fixed ] Minor Bugs Fixed
++ [ Upgrade ] Firebase JWT upgrade 
+Version 1.1.8
+( updated on 23-Mar-2023 )
++ [ Added ] Search Option within the map
++ [ Added ] User can find order detail after placing order has been placed
++ [ Improvment] UI Improvements 
++ [ Updated] Code Compatible with Latest Flutter Version - 3.7.7
++ [ Added ] Add-ons added in POS
++ [ Fixed ] Minor Bugs Fixed 
+Version 1.1.7
+( updated on 7-Feb-2023 )
++ [Added] Thermal invoice
++ [Added] Localizations in app side
++ [Resolved] JWT issue
++ [Fix] Improvements & bug fixes
+Version 1.1.6
+( updated on 10-Dec-2022 )
++ Added food sales report in partner and admin
++ Added filter orders by payment methods
++ Added POS system for partners
++ Added product Availability timer
++ Compatible with Flutter 3.0.9
++ Improvements and issue fixed
+Version 1.1.5
+( updated on 18-Oct-2022 )
++ Added category bulk upload and update option
++ Improved app performance
+Version 1.1.4
+( updated on 15-Sep-2022 )
++ Added category bulk upload and update option<br />
++ Improved app performance<br />
+Version 1.1.4
+( updated on 15-Sep-2022 )
++ Added product bulk upload and update option in admin and partner panel
++ Added social login
++ Improve system timezone
++ Improve taxation system
++ Rider order status update issue resolved
++ Improvements and Issue Fixed
+Version 1.1.3
+( updated on 9-Aug-2022 )
++ Added Order Review
++ Added more rows in KM range
++ Voice search in app
++ Location issues resolved for cities
++ JWT authentication
++ UI Improve
++ Fixed Issue
+Version 1.1.2
+( updated on 21-June-2022 )
++ Improved Tax system.
++ Implemented Self Pickup Module for customer.
++ Implemented reason for cancel order.
++ Fixed Latitude Longitude update issue
++ Improved Order receipt system 
++ Compatible with Flutter 3.0.1
+Version 1.1.1
+( updated on 19-May-2022 )
++ Implemented near by listing
++ Added delete user account option
++ Added skip for login option
++ Fixed cart issue
+Version 1.0.1
+( updated on 02-Mar-2022 )
++ RTL Support
++ Support multiple language in partner app
++ Added attribute using partner app
++ Attribute status change using partner app
++ Edit & Add product page improved in partner app",59, 192 ,https://codecanyon.net/item/erestro-flutter-multi-restaurant-vendor-marketplace-food-ordering-app-for-hyperlocal-business/37241677
+29,Delivery Boy For Multi-Restaurants Flutter App,https://codecanyon.img.customer.envatousercontent.com/files/430424907/preview_delivery_boy.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=0c33c627dfcd5a5fe7d8fd579e2e6588,"– Version: 2.0.0
+– Last update: 16/03/2023
+– File Included: Full Source code of Flutter App (Android & iOS)
+– Admin Panel not included
+CONSIDERING PURCHASING OUR ITEM?
+Please view our support section for important notes and questions.
+
+Delivery Boy Flutter App + PHP Laravel Admin Panel
+Mobile app solution using a flutter framework created by Google is open-source mobile application development. It is used to develop applications for Android and iOS, as well as being the primary method of creating applications
+Our solution uses Laravel (PHP Framework for Web Artisans) Laravel is a web application framework with an expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.
+Flutter App Features:
+Multiple Restaurants or Restaurants directory Management System
+Google Maps for showing restaurants on the maps with direction to them
+Entities & Models are ready to use.
+Clean & organized Dart Language code using MVC Pattern
+Easy to restyle and theming by on your branding sites.
+Working fine with bright and dark mode.
+Awesome animations are ready to use: Hero Animations, Parallax Animations, Sliding & Swiping animations
+Working really well on both iOS and Android with support with 60 frames per second (fps).
+Cash on delivery and payment on pickup methods
+Support RTL languages (Arabic, Farisi…)
+Push notification using FCM (Firebase Cloud Messaging)
+Login
+Register
+Orders
+Notifications
+User Profile
+Orders History
+App Settings
+App Languages
+Help & Supports
+Account Settings
+Delivery Boy Mobile App Demo
+
+Driver
+User or email: driver@demo.com
+Password: 123456
+
+Other Driver
+User or email: driver1@demo.com
+Password: 123456
+Admin Panel (Not included Download it from this item)
+
+Admin
+User or email: admin@demo.com
+Password: 123456
+
+Market Manager
+User or email: manager@demo.com
+Password: 123456
+
+Client
+User or email: client@demo.com
+Password: 123456
+Client Mobile App Demo (Not included Download it from this item)
+
+Client
+User or email: client@demo.com
+Password: 123456
+
+Other Client
+User or email: client1@demo.com
+Password: 123456
+Customer Website (NOT INCLUDED IN THIS ITEM)
+
+Customer 1
+User or email: client@demo.com
+Password: 123456
+
+Customer 2
+User or email: client@demo.com
+Password: 123456
+Manager / Owner Mobile App (NOT INCLUDED IN THIS ITEM)
+
+Manager / Owner / Vendor account
+User or email: manager@demo.com
+Password: 123456
+Documentation
+This is online documentation, this link can help you how to getting started with flutter and how to use Delivery Boy application in you projects.
+
+
+What they say about our Apps ?
+
+
+Follow us on Social Media
+
+Change Log
+V2.0.0   |    16-01-2023
+
+- Delivery Boy Mobile Application ( Flutter version 3.3.10 Stable Release & Android SDK 33)
+- Update flutter version 3.3.10 (Stable Release)
+- Upgrade Deprecated widgets
+- Upgrade dependencies
+- Fix some internal bugs
+V1.4.0   |    24-02-2022
+
+- Delivery Boy Mobile Application ( Flutter version 2.10.1 Stable Release )
+- Update flutter version 2.10.1 (Stable Release)
+- Upgrade Deprecated widgets
+- Fix ios configurations
+- Upgrade dependencies
+- Fix some internal bugs
+V1.3.0   |    26-07-2021
+
+- Delivery Boy Mobile Application ( Flutter version 2.2.3 Stable Release )
+- Add Sentences to translation files.
+- Update flutter version 2.2.3 (Stable Release)
+- Upgrade Deprecated widgets
+- Fix ios configurations
+- Upgrade dependencies
+- Fix some internal bugs
+- Update documentation
+V1.2.0   |    07-05-2020
+
+- Update design template orders list
+- Update design template order details page
+- Add the open delivery address in maps
+- Update translation files (changed to lib/l10n/ folder)
+- Fix push notification issues
+- Fix calculation bugs
+- Update dependencies and flutter 1.17.1
+- Fix Register and login issues
+V1.1.0   |    25-04-2020
+
+- Update empty orders page
+- Fix delivery fee issues
+- Fix change profile data from settings
+- Fix push notifications and notification page
+- Fix translation sentences
+- Fix default avatar issues
+V1.0.0
+
+Initial release",19," 1,172 ",https://codecanyon.net/item/delivery-boy-for-multirestaurants-flutter-app/25308137
